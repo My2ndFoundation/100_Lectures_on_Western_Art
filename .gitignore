@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Obsidian — user-specific state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache
+.trash/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Dispatch / scratch
+_dispatch/
