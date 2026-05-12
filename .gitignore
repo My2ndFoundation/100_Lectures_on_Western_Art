@@ -19,3 +19,6 @@
 
 # Dispatch / scratch
 _dispatch/
+
+# Claude Code worktrees (transient)
+.claude/worktrees/

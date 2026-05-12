@@ -1,0 +1,4 @@
+# 已 ingest 的 raw 文件清单（append-only）
+# 由 /art-ingest 维护，/art-scan 只读
+# 列：raw_path	ingest_date	source_page
+# 字段以单个 TAB 分隔。不要排序、不要去重、不要编辑历史行。
