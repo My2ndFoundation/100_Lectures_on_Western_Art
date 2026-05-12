@@ -18,7 +18,7 @@ Every wiki page MUST have frontmatter:
 
 ```yaml
 ---
-type: era | school | person | technique | artwork | source | concept
+type: era | school | person | technique | artwork | source | concept | course
 name_zh: <中文>
 name_en: <English>            # artwork/person/school/technique/era 必填
 name_original: <原文>          # 当原文非英文（希腊/拉丁/意/法/荷/德…）时必填
@@ -99,13 +99,25 @@ Required sections:
 
 ### `概念/<中文 English>.md` — type: concept
 
-查询沉淀用，非必备。当 query 答案 ≥200 字或连接 ≥2 个未文档化概念时回填。
+查询沉淀用 + 承载课程里出现的"类型/母题/事件"类抽象实体（如 `库罗斯 Kouros`、`Venus pudica`）。
 
 - 一句话定义
 - 详细解释
 - 相关概念 / 流派 / 人物 / 技法
 - 出现在
 - 引用 source
+
+**Folder-per-concept（选用）**：当一个概念需要承载图片（如雕像类型样本图），可以与作品同样用文件夹模式：`概念/<中文 English>/<中文 English>.md` + `01.jpg` ...。仅在需要图片时启用，不强制。
+
+### `课程/<课程全名>.md` — type: course
+
+课程级别的元数据页（如 `顾衡·西方美术100讲`）。所有 lecture 的 raw frontmatter `author:` backlink 指向这里。
+
+- 简介
+- 主讲人
+- 章节结构（按时代/板块分组）
+- 包含的全部 lecture（`[[…]]` 列表，自动维护）
+- 出现在 / 被引用
 
 ## 4. 命名约定
 
