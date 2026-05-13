@@ -6,12 +6,14 @@ name_original: Nature morte à la chaise cannée
 original_lang: 法语
 aliases:
   - Still Life with Chair Caning
+  - Still life with a caned chair
   - Nature morte à la chaise cannée
   - 藤椅上的静物
+  - 藤椅与静物
   - 有藤椅的静物
 created: 2026-05-13
 updated: 2026-05-13
-sources: 1
+sources: 2
 ---
 
 ## 基本信息
@@ -39,7 +41,12 @@ sources: 1
 | 编号 | 出自 | 描述 |
 |---|---|---|
 | 01 | [[001｜总导论：艺术到底属于谁？]] | 整体图 |
+| 02 | [[067｜毕加索4：什么是综合立体主义？]] | 整体图（不同扫描版本；067 用作综合立体主义 / 拼贴诞生样本） |
+
+![](01.png)
+![](02.jpg)
 
 ## 出现在
 
 - [[001｜总导论：艺术到底属于谁？]]
+- [[067｜毕加索4：什么是综合立体主义？]]

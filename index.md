@@ -8,6 +8,7 @@
 - [[中世纪 Middle Ages]] — 公元 476 – 1400 · 基督教教权框架下千年；艺术从写实退场，程式化为教义服务
 - [[文艺复兴期 Renaissance]] — 约 1400 – 1600 · 教会抓住 1453 君士坦丁堡陷落的契机重塑权威；佛罗伦萨为承担者
 - [[巴洛克时期 Baroque Period]] — 17 世纪欧洲艺术的时代框架
+- [[当代 Contemporary Period]] — 二战后 (~1945–现在); 抽象表现主义起为当代艺术起点
 
 ## 流派 (Schools / Movements)
 
@@ -32,6 +33,39 @@
 - [[洛可可 Rococo]] — 18 世纪法国宫廷风格；精致 + 细腻；蓬巴杜夫人 / 布歇为"双翼"
 - [[新古典主义 Neoclassicism]] — 18 世纪后半段法国学院派复古路线；大卫为奠基；技法回归拉斐尔但保留巴洛克舞台风
 - [[浪漫主义 Romanticism]] — 19 世纪欧洲反启蒙运动；情感强度取代客观真理；德拉克罗瓦旗手
+- [[现实主义 Realism]] — 库尔贝开创、1855 自办展立旗；反学院派也反浪漫主义；哲学源头是孔德实证主义
+- [[巴比松画派 Barbizon School]] — 19 世纪法国，柯罗领衔，承接洛兰/普桑的'披神话外衣画风景'路线但摘下外衣
+- [[印象派 Impressionism]] — 19 世纪后半叶法国现代绘画流派，'原教旨'地把现实主义'看见什么就画什么'推到户外快速作画
+- [[新印象主义 Neo-Impressionism]] — 1880s 中期由修拉开创的'科学化印象派'；色彩量化 + 小圆点 + 视觉混和
+- [[象征主义 Symbolism]] — 1886年莫亚雷斯宣言登场；'主观的客观化'方法论；西方现代绘画'看不懂'的起点
+- [[后印象派 Post-Impressionism]] — 1910 罗杰·弗莱命名的群像标签：塞尚、高更、凡·高三人「有所借鉴，最终背离」印象派
+- [[综合主义 Synthetism]] — 1888 阿旺桥时期高更与贝尔纳共创；色块+黑线轮廓的"景泰蓝派"画法 + 象征主义的内在结构性
+- [[野兽派 Fauvism]] — 1905 秋季沙龙展瓦克塞尔反向命名；马蒂斯/德朗/弗拉芒克为核心；为色彩而色彩的平涂运动
+- [[立体主义 Cubism]] — 20 世纪初毕加索/勃拉克共创，把物体分解为几何切面
+- [[表现主义 Expressionism]] — 主要发端于德国的 20 世纪初现代主义流派
+- [[超现实主义 Surrealism]] — 1920s 法国发起的现代主义运动；潜意识 + 梦境；毕加索晚期与其关联
+- [[桥社 Die Brücke]] — 1905–1913 德累斯顿表现主义艺术家团体；基希纳/诺尔德为核心
+- [[维也纳分离派 Vienna Secession]] — 1897 创立; 克里姆特领衔; 维也纳新艺术运动支流
+- [[新艺术运动 Art Nouveau]] — 1890–1910 欧洲装饰艺术运动; 曲线 + 自然形态
+- [[青年风格 Jugendstil]] — 新艺术运动的德语版本; 慕尼黑《青年》杂志命名
+- [[包豪斯 Bauhaus]] — 1919–1933 德国设计学校; 现代主义设计奠基
+- [[巴黎画派 École de Paris]] — 1900–1940s 巴黎国际艺术家群体; 跨流派松散标签
+- [[马基亚伊奥利画派 Macchiaioli]] — 19 世纪后期意大利印象派; macchia 小笔触
+- [[未来主义 Futurism]] — 1909 马里内蒂宣言; 速度·机器·暴力; 让立体主义动起来
+- [[青骑士 Der Blaue Reiter]] — 1911 慕尼黑表现主义团体; 康定斯基/马尔克/马克/克利
+- [[抽象绘画 Abstract Painting]] — 20 世纪初; 反具象艺术; 康定斯基为奠基者
+- [[至上主义 Suprematism]] — 1915 马列维奇宣言; 抽象绘画的逻辑终点
+- [[巡回画派 Peredvizhniki]] — 1870 俄罗斯现实主义画家协会; 列宾/施希金
+- [[辐射主义 Rayonnism]] — 1912–14 拉里奥诺夫+冈察洛娃创立的俄国先锋派
+- [[风格派 De Stijl]] — 1916 蒙德里安+杜斯堡创办; 抽象画三大支流之一
+- [[新造型主义 Neo-Plasticism]] — 蒙德里安自命画法名; 与风格派同指
+- [[构成主义 Constructivism]] — 1915–1924 俄国前卫; 三维抽象+艺术为革命服务; 塔特林创立
+- [[达达主义 Dadaism]] — 1916 苏黎世伏尔泰酒吧起; 反艺术/反理性; 一战觉醒
+- [[皮托集团 Puteaux Group]] — 1911 巴黎郊外杜尚兄弟主导的立体主义分支
+- [[毕卡比亚画派 Picabia School]] — 毕卡比亚透明画派; 1920s 后期; 达达后机器+人体并置
+- [[形而上画派 Metaphysical Painting]] — 1910s 意大利契里柯创立; 超现实主义直接前身
+- [[抽象表现主义 Abstract Expressionism]] — 1940s 美国; 当代艺术第一个流派; 行动绘画 + 色域抽象
+- [[波普艺术 Pop Art]] — 1950s 英美; 流行文化进入艺术; 安迪·沃霍尔代表
 
 ## 人物 (People)
 
@@ -147,6 +181,268 @@
 - [[席勒 Friedrich Schiller]] — 1759–1805 · 德国诗人 / 剧作家
 - [[波德莱尔 Charles Baudelaire]] — 1821–1867 · 法国诗人 / 现代艺术批评开创者
 - [[以赛亚·伯林 Isaiah Berlin]] — 1909–1997 · 英国思想史家 / 浪漫主义研究权威
+- [[籍里柯 Théodore Géricault]] — 浪漫主义第一代旗手 / 德拉克罗瓦师兄 / 美杜莎之筏作者 (1791–1824)
+- [[杰夫·沃尔 Jeff Wall]] — 加拿大当代摄影家 / 1978 致敬德拉克罗瓦的灯箱片
+- [[谢弗勒尔 Michel Eugène Chevreul]] — 法国化学家 / 补色原理与同时对比定律 (1786–1889)
+- [[塔列朗 Charles-Maurice de Talleyrand-Périgord]] — 法国政坛不倒翁 / 德拉克罗瓦的生父 (1754–1838)
+- [[盖兰 Pierre-Narcisse Guérin]] — 大卫弟子 / 籍里柯与德拉克罗瓦的老师 (1774–1833)
+- [[居斯塔夫·库尔贝 Gustave Courbet]] — 1819–1877，现实主义开创者，巴黎公社艺术负责人，客死瑞士
+- [[孔德 Auguste Comte]] — 1798–1857，实证主义创立者，库尔贝思想之父
+- [[米勒 Jean-François Millet]] — 19 世纪法国"伟大的现实主义"代表，以农民牧歌主题闻名
+- [[杜米埃 Honoré Daumier]] — 19 世纪法国批判现实主义画家、政治讽刺漫画家、石版画改良者
+- [[路易·勒南 Louis Le Nain]] — 17 世纪法国画家，农民虔诚生活题材开创者
+- [[格勒兹 Jean-Baptiste Greuze]] — 18 世纪法国"道德教化绘画"代表，狄德罗推崇对象
+- [[卢梭 Jean-Jacques Rousseau]] — 18 世纪日内瓦-法国哲学家，"高贵的野蛮人"概念发明者
+- [[罗丹 Auguste Rodin]] — 19 世纪末-20 世纪初法国雕塑家，现代雕塑奠基人
+- [[休谟 David Hume]] — 18 世纪苏格兰经验主义哲学家，同情心理论
+- [[戈佐利 Benozzo Gozzoli]] — 15 世纪佛罗伦萨画派，顾衡 037 引《三博士来朝》作'透视法发明 30 年后景色仍画不好'反例
+- [[乔瓦尼·迪·保罗 Giovanni di Paolo]] — 15 世纪锡耶纳画派，顽守拜占庭程式化风格
+- [[波拉约洛 Antonio del Pollaiuolo]] — 15 世纪佛罗伦萨多才画家；用'圣徒挑高'法调和俯瞰风景与平视人物
+- [[维米尔 Johannes Vermeer]] — 17 世纪荷兰黄金时代代表；小孔成像法 + 俯瞰构图照片式再现
+- [[洛兰 Claude Lorrain]] — 17 世纪法国，理想化风景的奠基者；披神话外衣画风景
+- [[柯罗 Camille Corot]] — 19 世纪法国巴比松画派代表；摘下神话外衣的纯风景画
+- [[康斯泰布尔 John Constable]] — 19 世纪英国风景画顶峰；风景成为绘画目的本身
+- [[翁贝托·艾柯 Umberto Eco]] — 20 世纪意大利符号学家；为'中世纪 = 隐喻与符号'立论
+- [[肯尼斯·克拉克 Kenneth Clark]] — 20 世纪英国艺术史家；风景画分期框架（象征时期）
+- [[奥斯曼男爵 Baron Haussmann]] — 巴黎大改造主持人 / 1851 起 18 年
+- [[本雅明 Walter Benjamin]] — 现代性时间观断裂的理论化者
+- [[弗洛姆 Erich Fromm]] — 被消费所异化
+- [[帕特南 Robert Putnam]] — 社会资本
+- [[库退尔 Thomas Couture]] — 1815-1879 / 马奈恩师 / 折中派沙龙金奖《颓废的罗马人》
+- [[卡巴内尔 Alexandre Cabanel]] — 1823-1889 / 学院派代表 / 1863 沙龙金奖《维纳斯的诞生》
+- [[马拉美 Stéphane Mallarmé]] — 1842-1898 / 法国象征主义诗人 / 马奈的理论辩护人
+- [[西美尔 Georg Simmel]] — 1858-1918 / 德国社会学家 / '货币哲学'与交际花文化诠释
+- [[维多琳 Victorine Meurent]] — 1844-1927 / 马奈三幅核心作品的女模特
+- [[毕沙罗 Camille Pissarro]] — 印象派核心；《牧羊女》(1881) 与《大宫女》对照
+- [[莫奈 Claude Monet]] — 印象派灵魂；'光线 + 时间'纪律代言人
+- [[达盖尔 Louis Daguerre]] — 1839 银版照相法发明者；摄影术之父
+- [[埃德蒙·贝克勒尔 Edmond Becquerel]] — 1867 物理学光学论证印象派色彩理论
+- [[约翰·兰德 John Rand]] — 1841 管装颜料发明者；印象派物质条件关键
+- [[雷诺阿 Pierre-Auguste Renoir]] — 印象派核心三人之一；格莱尔画室四骨干
+- [[巴齐依 Frédéric Bazille]] — 印象派早期赞助人；普法战争阵亡
+- [[西斯莱 Alfred Sisley]] — 印象派四骨干；成功前夕死于喉癌
+- [[德加 Edgar Degas]] — 印象派核心三人之一；1912 拍卖纪录画《把杆的舞女》作者
+- [[布丹 Eugène Boudin]] — 莫奈思想源头；'画出眼睛即时看见的东西'
+- [[格莱尔 Charles Gleyre]] — 学院派画室主；反向培养印象派四骨干
+- [[杜比尼 Charles-François Daubigny]] — 巴比松粗犷派；对莫奈影响最大
+- [[梅索尼埃 Ernest Meissonier]] — 学院派标王；1912 拍卖中被印象派击败
+- [[卡美伊·东西厄 Camille Doncieux]] — 莫奈模特、女朋友、第一任妻子
+- [[透纳 J. M. W. Turner]] — 英国浪漫主义画家，《日出·印象》致敬对象；岛国水汽催生的光线探索是印象派前驱
+- [[丢朗-吕厄 Paul Durand-Ruel]] — 法国画商，印象派决定性经纪人；1872 年单年买莫奈 29+ 幅
+- [[塞尚 Paul Cézanne]] — 1874 印象派首展中坚；'莫奈只是一只眼睛'金句作者；后印象派先驱
+- [[勒鲁瓦 Louis Leroy]] — 法国艺评家；反向命名印象派 (1874)；'用舌头舔出来' 恶评
+- [[奥什逮 Ernest Hoschedé]] — 法国百货经营者 / 莫奈早期收藏家；1878 破产抛售致莫奈画价跌至 184 法郎
+- [[爱丽丝·奥什逮 Alice Hoschedé]] — 莫奈第二任妻；建议莫奈做组画——干草垛/鲁昂大教堂/睡莲三大系列由此诞生
+- [[左拉 Émile Zola]] — 法国自然主义作家；印象派早期声援者；莫奈 1874 后讨钱对象
+- [[古诺 Charles Gounod]] — 法国浪漫主义作曲家；曾力劝少年雷诺阿弃画从乐
+- [[夏庞蒂埃 Georges Charpentier]] — 19 世纪法国出版商；雷诺阿生涯转折的关键媒体盟友
+- [[戈雅 Francisco Goya]] — 18–19 世纪西班牙宫廷画家与现代性先驱；《阳台上的玛哈》是马奈《阳台》构图来源
+- [[高更 Paul Gauguin]] — 后印象派三杰之一；由毕沙罗力排众议引入印象派画展
+- [[莫利索 Berthe Morisot]] — 印象派唯一女性核心成员，德加情感对象（嫁给马奈之弟）
+- [[凡·高 Vincent van Gogh]] — 荷兰后印象派画家；045 中误读德加为'性无能'的旁观者
+- [[瓦雷里 Paul Valéry]] — 法国象征派诗人；德加朋友；'线条系统'解读人
+- [[阿尔弗雷德·德·缪塞 Alfred de Musset]] — 法国浪漫派诗人；德加扇画上的'求爱小夜曲'形象
+- [[修拉 Georges Seurat]] — 1859–1891；新印象主义 / 分色主义 / 点彩派创始人
+- [[西涅克 Paul Signac]] — 1863–1935；新印象主义主将；修拉去世后运动领袖
+- [[费奈昂 Félix Fénéon]] — 1861–1944；评论家；新印象主义命名人
+- [[大卫·苏特 David Sutter]] — 19 世纪美术评论家；'理性的眼睛'宣言
+- [[昂里 Charles Henry]] — 1859–1926；线条情绪先天生理理论；格式塔心理学的初级先声
+- [[莱曼 Henri Lehmann]] — 1814–1882；安格尔学生；修拉巴黎美专导师
+- [[莫罗 Gustave Moreau]] — 19世纪法国象征主义早期代表画家；《俄狄浦斯与狮身人面像》（1864）
+- [[加缪 Albert Camus]] — 20世纪法国作家/存在主义；048作为'象征'两个平面定义的提供者+朝向被批者
+- [[古斯塔夫·康恩 Gustave Kahn]] — 象征主义理论家；'主观的客观化'金句作者
+- [[让·莫亚雷斯 Jean Moréas]] — 1886年《象征主义宣言》作者；旅法希腊裔诗人
+- [[斯金纳 B. F. Skinner]] — 20世纪美国行为主义心理学家；048作为马拉美'黑箱'诗学方法的类比工具
+- [[徐志摩 Xu Zhimo]] — 新月派诗人；048提供马拉美诗学的中文同构对应
+- [[丢沙丹 Édouard Dujardin]] — 象征主义文艺理论家；把象征主义诗学搬到绘画的关键文献作者
+- [[夏凡纳 Pierre Puvis de Chavannes]] — 19 世纪法国画家，象征主义"简化路径"代表
+- [[刘春华 Liu Chunhua]] — 中国当代画家，《毛主席去安源》作者
+- [[孟禄丁 Meng Luding]] — 中国当代画家，"八五新潮"代表
+- [[张群 Zhang Qun]] — 中国当代画家，"八五新潮"代表
+- [[毛旭辉 Mao Xuhui]] — 中国当代画家，"八五新潮"代表
+- [[夏塞里奥 Théodore Chassériau]] — 19世纪法国画家；安格尔→德拉克罗瓦的两栖传承；把'线条+色彩混搭'传给莫罗
+- [[泰奥多尔·德·维塞瓦 Teodor de Wyzewa]] — 波兰裔法国象征主义评论家；'审美价值与理解人数成反比'
+- [[阿当 Paul Adam]] — 法国象征主义作家；编《象征主义作家小词典》
+- [[雷东 Odilon Redon]] — 1840–1916 法国象征主义第三位画家；幻想/梦境路径；早期黑白、晚期鲜艳色彩 + 形状叙事弱化
+- [[于斯曼 Joris-Karl Huysmans]] — 1848–1907 法国象征主义/颓废派作家；《逆流》(1884) 捧红莫罗与雷东
+- [[兰波 Arthur Rimbaud]] — 1854–1891 法国象征主义诗人；'通灵者/盗火者'纲领
+- [[叶芝 W. B. Yeats]] — 1865–1939 爱尔兰诗人；象征主义'玄想 vs 隐喻'符号论
+- [[贝克特 Samuel Beckett]] — 1906–1989 爱尔兰/法语剧作家；《等待戈多》反讽象征主义
+- [[塞万提斯 Miguel de Cervantes]] — 1547–1616 西班牙作家；《唐·吉诃德》反讽骑士小说（顾衡历史类比坐标）
+- [[热罗姆 Jean-Léon Gérôme]] — 1824–1904 法国学院派画家；安格尔学生；雷东 24 岁入门的老师
+- [[达利 Salvador Dalí]] — 1904–1989 西班牙超现实主义画家；自承受雷东启发
+- [[罗杰·弗莱 Roger Fry]] — 英国艺术史学者；1910 三人画展命名「后印象派」
+- [[贝尔纳 Émile Bernard]] — 法国画家、塞尚晚年作画过程的实地观察记录者
+- [[索绪尔 Ferdinand de Saussure]] — 瑞士语言学家、符号任意性立场提出者（053 引为沃尔夫'分节'对立面）
+- [[安奎丹 Louis Anquetin]] — 19世纪法国画家；与贝尔纳共创景泰蓝派；阿旺桥派外围
+- [[奥里耶 Albert Aurier]] — 法国象征主义评论家；1890 文章把高更推上象征主义旗手
+- [[米尔博 Octave Mirbeau]] — 法国小说家与艺评家；1891 推广高更
+- [[提奥 Theo van Gogh]] — 凡·高的弟弟、终身资助者；古比尔/Boussod 巴黎分店经理
+- [[尤金妮娅·洛耶 Eugénie Loyer]] — 凡·高 1873–74 伦敦初恋（已订婚拒绝）
+- [[凯·沃斯 Kee Vos]] — 凡·高表姐，丧偶后被凡·高死缠
+- [[西恩·霍尼克 Sien Hoornik]] — 海牙妓女，1882–83 凡·高同居伴侣与模特
+- [[蒙蒂切利 Adolphe Monticelli]] — 法国马赛厚涂画家、凡·高巴黎期偶像（"管人家叫爸爸"）
+- [[亚历山大·里德 Alexander Reid]] — 苏格兰画商、凡·高巴黎期友人与肖像画模特
+- [[颜料商唐吉老爹 Père Tanguy]] — 巴黎颜料商; 凡·高+塞尚+毕沙罗都受其照顾
+- [[舒菲奈克 Émile Schuffenecker]] — 高更密友; 凡·高巴黎期相识
+- [[毛姆 Somerset Maugham]] — 英国小说家;《月亮和六便士》以高更为原型
+- [[马蒂斯 Henri Matisse]] — 1869–1954 法国野兽派旗手, 莫罗学生
+- [[德朗 André Derain]] — 1880–1954 野兽派核心; 与弗拉芒克共组 Chatou 派
+- [[弗拉芒克 Maurice de Vlaminck]] — 1876–1958 野兽派核心; 凡·高对色彩冲击的继承者
+- [[马尔凯 Albert Marquet]] — 1875–1947 法国画家; 野兽派早期成员后转风景
+- [[多纳泰罗 Donatello]] — c.1386–1466 文艺复兴佛罗伦萨雕塑家; 马蒂斯研究对象
+- [[瓦克塞尔 Louis Vauxcelles]] — 1870–1943 法国评论家; 反向命名野兽派(1905) + 立体主义(1908)
+- [[布格罗 William-Adolphe Bouguereau]] — 1825–1905 法国学院派代表; 马蒂斯早期厌恶的对象
+- [[蒙弗雷德 Georges-Daniel de Monfreid]] — 法国画家与高更密友
+- [[卢奥 Georges Rouault]] — 1871–1958 法国画家; 莫罗学生; 野兽派+宗教表现主义
+- [[勃拉克 Georges Braque]] — 1882–1963 法国画家; 立体主义共创者; 早期野兽派
+- [[杜菲 Raoul Dufy]] — 1877–1953 法国野兽派画家; 后转装饰艺术
+- [[弗里兹 Othon Friesz]] — 1879–1949 法国野兽派画家
+- [[普雷齐奥西 Donald Preziosi]] — 美国艺术史学者; 引论马蒂斯"安乐椅"评语
+- [[贝伦森 Bernard Berenson]] — 艺术评论家; 把柏格森生命哲学引荐给马蒂斯
+- [[柏格森 Henri Bergson]] — 法国哲学家; 生命哲学创立者; 直觉/绵延概念
+- [[史楚金 Sergei Shchukin]] — 俄国收藏家; 马蒂斯+毕加索大金主 (1910《舞蹈》《音乐》委托)
+- [[米罗 Joan Miró]] — 1893–1983 西班牙超现实主义画家; 早期受野兽派启发
+- [[毕加索 Pablo Picasso]] — 1881–1973 西班牙-法国画家; 20 世纪艺术第一巨匠; 立体主义共创者
+- [[曼雅克 Pere Mañach]] — 1872–1916 西班牙加泰罗尼亚画商; 毕加索 1900-1902 巴黎首个画商
+- [[沃拉尔 Ambroise Vollard]] — 1866–1939 法国画商; 塞尚/凡高/毕加索/弗拉芒克 大金主
+- [[费尔南德 Fernande Olivier]] — 1881–1966 法国画家+模特; 毕加索 1904-1912 同居伴侣
+- [[埃尔·格列柯 El Greco]] — 1541–1614 西班牙画家; 毕加索玫瑰红期+黑人期构图蓝本
+- [[劳特累克 Henri de Toulouse-Lautrec]] — 1864–1901 法国画家; 巴黎风俗+海报艺术; 毕加索 1900 模仿对象
+- [[格特鲁德·斯坦因 Gertrude Stein]] — 1874–1946 美国-法国作家; 毕加索沙龙赞助人; 1906 肖像
+- [[阿波利奈尔 Guillaume Apollinaire]] — 1880–1918 法国诗人; 立体主义首席辩护人
+- [[马科斯·耶科 Max Jacob]] — 1876–1944 法国诗人; 毕加索 1900-1907 室友
+- [[卡恩韦勒 Daniel-Henry Kahnweiler]] — 1884–1979 德国-法国画商; 立体主义首席代理
+- [[海明威 Ernest Hemingway]] — 1899–1961 美国作家; 1920s 巴黎艺术圈观察者
+- [[普朗塞 Maurice Princet]] — 法国数学家; 毕加索/勃拉克的"几何顾问"; 分析立体主义引介者
+- [[伊娃 Eva Gouel]] — 1885–1915 毕加索 1912–1915 同居伴侣
+- [[佳吉列夫 Sergei Diaghilev]] — 1872–1929 俄罗斯芭蕾舞团创办人; 毕加索 1917 罗马舞美合作
+- [[奥尔加 Olga Khokhlova]] — 1891–1955 俄罗斯芭蕾舞演员; 毕加索第一任妻子
+- [[朵拉·玛尔 Dora Maar]] — 1907–1997 法国摄影师/画家; 毕加索 1936–1944 伴侣; 格尔尼卡见证者
+- [[玛丽·泰莱斯 Marie-Thérèse Walter]] — 1909–1977 毕加索 1927 起秘密伴侣; 玛雅母亲
+- [[弗朗索瓦斯·吉洛 Françoise Gilot]] — 1921–2023 法国画家; 毕加索 1944–1953 伴侣
+- [[杰奎琳·罗克 Jacqueline Roque]] — 1927–1986 毕加索 1953 起伴侣 + 第二任妻子
+- [[佛朗哥 Francisco Franco]] — 1892–1975 西班牙独裁者; 格尔尼卡屠杀的政治指控对象
+- [[罗兰特·潘罗斯 Roland Penrose]] — 1900–1984 英国超现实主义画家+毕加索传记作者
+- [[斯特拉文斯基 Igor Stravinsky]] — 1882–1971 俄罗斯-美国作曲家; 俄罗斯芭蕾舞团合作者
+- [[莱热 Fernand Léger]] — 1881–1955 法国立体主义/管子主义画家
+- [[德劳内 Robert Delaunay]] — 1885–1941 法国立体主义/俄耳浦斯立体主义画家
+- [[歌德 Johann Wolfgang von Goethe]] — 1749–1832 德国诗人哲学家; 069 引为思想脉络
+- [[费希特 Johann Gottlieb Fichte]] — 1762–1814 德国哲学家; 新康德主义"民族窄化"路径
+- [[黑格尔 G.W.F. Hegel]] — 1770–1831 德国哲学家; 新康德主义"时代精神"路径
+- [[爱德华·蒙克 Edvard Munch]] — 1863–1944 挪威表现主义先驱; 070 主角预告
+- [[克里斯蒂安·克罗格 Christian Krohg]] — 1852–1925 挪威画家; 蒙克老师
+- [[威廉二世 Wilhelm II]] — 1859–1941 德意志帝国皇帝; 蒙克 1892 柏林分离派事件政治背景
+- [[易卜生 Henrik Ibsen]] — 1828–1906 挪威剧作家; 蒙克设计舞美
+- [[沃林格 Wilhelm Worringer]] — 1881–1965 德国艺术史家;《抽象与移情》理论家
+- [[苏菲·蒙克 Sophie Munch]] — 蒙克姐姐; 病死结核; 070 蒙克"病房"母题来源
+- [[普茨比斯维斯基 Stanisław Przybyszewski]] — 1868–1927 波兰作家; 蒙克柏林时期密友
+- [[斯特林堡 August Strindberg]] — 1849–1912 瑞典剧作家; 蒙克柏林时期友人
+- [[达格妮 Dagny Juel]] — 1867–1901 挪威作家; 普茨比斯维斯基妻子; 蒙克模特
+- [[图拉·拉尔森 Tulla Larsen]] — 1869–1942 蒙克 1898–1902 痴恋对象; 蒙克手指事件
+- [[柯科施卡 Oskar Kokoschka]] — 1886–1980 奥地利表现主义画家; 维也纳分离派后继
+- [[拉特瑙 Walther Rathenau]] — 1867–1922 德国政治家+企业家; 蒙克模特
+- [[基希纳 Ernst Ludwig Kirchner]] — 1880–1938 桥社联合创始人; 街景系列代表
+- [[诺尔德 Emil Nolde]] — 1867–1956 桥社+独立表现主义画家; 宗教题材
+- [[施密特-罗特鲁夫 Karl Schmidt-Rottluff]] — 1884–1976 桥社联合创始人
+- [[赫尔曼·巴尔 Hermann Bahr]] — 1863–1934 奥地利作家; 表现主义理论家
+- [[克里姆特 Gustav Klimt]] — 1862–1918 维也纳分离派创立者; 金箔风格
+- [[惠斯勒 James Whistler]] — 1834–1903 美国-英国画家;《白衣少女》启发克里姆特
+- [[艾米莉·弗洛奇 Emilie Flöge]] — 1874–1952 奥地利时装设计师; 克里姆特灵魂伴侣
+- [[席勒 Egon Schiele]] — 1890–1918 奥地利表现主义画家; 维也纳分离派后继 (vs 诗人 席勒 Friedrich Schiller)
+- [[格吕彭克尔 Christian Griepenkerl]] — 1839–1916 奥地利学院派画家; 席勒维也纳美院老师
+- [[格蒂·席勒 Gerti Schiele]] — 席勒妹妹; 席勒早期主要模特
+- [[巴尔蒂斯 Balthus]] — 1908–2001 波兰-法国画家; 少女题材; 075 引为色情判据对照
+- [[弗洛伊德 Sigmund Freud]] — 1856–1939 奥地利精神分析创立者; 维也纳同时代; 表现主义思想根
+- [[叔本华 Arthur Schopenhauer]] — 1788–1860 德国哲学家; Willing 至上; 艺术意志哲学源头
+- [[立普斯 Theodor Lipps]] — 1851–1914 德国哲学家; 移情说提出者
+- [[波普尔 Karl Popper]] — 1902–1994 英国哲学家; 移情说诘问者
+- [[狄尔泰 Wilhelm Dilthey]] — 1833–1911 德国哲学家; 新康德派为心理学开门
+- [[马勒 Gustav Mahler]] — 1860–1911 奥地利作曲家; 艾尔玛丈夫
+- [[艾尔玛 Alma Mahler]] — 1879–1964 维也纳传奇缪斯; 《风中新娘》模特
+- [[格罗庇乌斯 Walter Gropius]] — 1883–1969 包豪斯创始人; 艾尔玛旧情人
+- [[杰林斯基 Alexander von Zemlinsky]] — 1871–1942 奥地利作曲家; 艾尔玛前男友
+- [[夏加尔 Marc Chagall]] — 1887–1985 俄罗斯-法国画家; 巴黎画派代表; 魔幻 + 飞翔母题
+- [[贝拉·罗森菲尔德 Bella Rosenfeld]] — 1895–1944 夏加尔妻子兼终身模特
+- [[莫迪里阿尼 Amedeo Modigliani]] — 1884–1920 意大利画家+雕塑家; 巴黎画派; 长鼻长颈程式化女子肖像
+- [[布朗库西 Constantin Brâncuși]] — 1876–1957 罗马尼亚-法国雕塑家; 原型/抽象雕塑奠基
+- [[米克里 Guglielmo Micheli]] — 1866–1926 意大利画家; 马基亚伊奥利; 少年莫迪老师
+- [[珍妮·赫比特娜 Jeanne Hébuterne]] — 1898–1920 法国画家; 莫迪妻子; 晚期模特; 殉情
+- [[比阿特丽斯·黑斯廷 Beatrice Hastings]] — 1879–1943 英国女作家; 莫迪情人
+- [[阿赫玛托娃 Anna Akhmatova]] — 1889–1966 俄国诗人; 阿克梅派; 莫迪 1910 情人
+- [[约翰·伯格 John Berger]] — 1926–2017 英国艺评家; 《观看之道》
+- [[邓南遮 Gabriele D'Annunzio]] — 1863–1938 意大利作家; 法西斯精神教父
+- [[刘益谦 Liu Yiqian]] — 1963– 中国收藏家; 龙美术馆; 2015 莫迪侧卧裸女 1.7 亿美元
+- [[亨利·卢梭 Henri Rousseau]] — 1844–1910 法国素人画家; 原始主义 (vs 哲学家 Jean-Jacques Rousseau)
+- [[马里内蒂 Filippo Tommaso Marinetti]] — 1876–1944 意大利诗人; 1909 未来主义宣言发起
+- [[波丘尼 Umberto Boccioni]] — 1882–1916 未来主义画家; 1916 战死
+- [[巴拉 Giacomo Balla]] — 1871–1958 波丘尼老师;《被拴住的狗的动态》
+- [[康定斯基 Wassily Kandinsky]] — 1866–1944 俄罗斯-德国画家; 抽象绘画第一人; 青骑士创立
+- [[库普卡 František Kupka]] — 1871–1957 捷克画家; 与康定斯基并列的抽象先驱
+- [[马尔克 Franz Marc]] — 1880–1916 德国表现主义画家; 青骑士; 1916 战死;《蓝色的马》
+- [[马克 August Macke]] — 1887–1914 德国表现主义画家; 青骑士; 1914 战死
+- [[克利 Paul Klee]] — 1879–1940 瑞士-德国画家; 青骑士; 包豪斯教师
+- [[瓦格纳 Richard Wagner]] — 1813–1883 德国作曲家; 总体艺术; 康定斯基音乐影响
+- [[米歇尔·瑟福 Michel Seuphor]] — 1901–1999 比利时艺评家; 抽象艺术史家
+- [[戈蒂耶 Théophile Gautier]] — 1811–1872 法国诗人; "为艺术而艺术"口号倡导者
+- [[汤姆·沃尔夫 Tom Wolfe]] — 1930–2018 美国作家;《现代艺术的故事》
+- [[威尔·贡培兹 Will Gompertz]] — 英国艺评家;《现代艺术 150 年》
+- [[马列维奇 Kazimir Malevich]] — 1879–1935 俄国画家; 至上主义创立者; 黑方块
+- [[列宾 Ilya Repin]] — 1844–1930 俄国画家; 巡回画派代表;《伏尔加河上的纤夫》
+- [[施希金 Ivan Shishkin]] — 1832–1898 俄国画家; 巡回画派风景画大师
+- [[冈察洛娃 Natalia Goncharova]] — 1881–1962 俄国前卫派画家; 辐射主义
+- [[莫洛索夫 Ivan Morozov]] — 1871–1921 俄国收藏家; 与史楚金并列莫斯科现代艺术金主
+- [[蒙德里安 Piet Mondrian]] — 1872–1944 荷兰画家; 风格派/新造型主义创立; 红黄蓝格子
+- [[杜斯堡 Theo van Doesburg]] — 1883–1931 荷兰画家;《风格》杂志合办人; 与蒙德里安决裂
+- [[布拉瓦茨卡娅 Helena Blavatsky]] — 1831–1891 神智学创立者; 抽象画三人组思想源头
+- [[赫伯特·里德 Herbert Read]] — 1893–1968 英国艺术史家; 克利诗性评价
+- [[老子 Laozi]] — 道家始祖; 085 引为"婴儿视角"东方对照
+- [[勋伯格 Arnold Schoenberg]] — 1874–1951 奥地利作曲家; 青骑士外籍核心; 无调性音乐奠基
+- [[塔特林 Vladimir Tatlin]] — 1885–1953 俄国构成主义旗手; 塔特林塔设计者
+- [[利西茨基 El Lissitzky]] — 1890–1941 构成主义海报设计师
+- [[罗琴科 Alexander Rodchenko]] — 1891–1956; 1921 "艺术已死" 宣言
+- [[雨果·鲍尔 Hugo Ball]] — 1886–1927 达达主义共同创立者; 1916 伏尔泰酒吧
+- [[查拉 Tristan Tzara]] — 1896–1963 罗马尼亚-法国诗人; 达达主义命名人
+- [[胡森贝克 Richard Huelsenbeck]] — 1892–1974 德国达达主义诗人; 柏林达达
+- [[让·阿尔普 Jean Arp]] — 1886–1966 法国-德国艺术家; 达达+超现实主义先驱
+- [[杰克·维庸 Jacques Villon]] — 1875–1963 杜尚大哥; 皮托集团领袖
+- [[西蒙·维庸 Raymond Duchamp-Villon]] — 1876–1918 杜尚二哥; 雕塑家 (顾衡作"西蒙")
+- [[尼科尔 Émile Frédéric Nicolle]] — 杜尚外祖父; 鲁昂画家
+- [[邓肯 Isadora Duncan]] — 1877–1927 美国现代舞之母
+- [[雅里 Alfred Jarry]] — 1873–1907 法国先锋派天才; 啪嗒学发明人; 杜尚精神之父
+- [[毕卡比亚 Francis Picabia]] — 1879–1953 法国画家; 达达主义绘画端代表; 杜尚镜像伙伴
+- [[契里柯 Giorgio de Chirico]] — 1888–1978 意大利画家; 形而上画派创立者
+- [[恩斯特 Max Ernst]] — 1891–1976 德国-法国画家; 达达→超现实主义; 发明摩擦法/拓印法
+- [[布勒东 André Breton]] — 1896–1966 法国诗人; 超现实主义宣言作者+教皇
+- [[艾吕雅 Paul Éluard]] — 1895–1952 法国诗人; 超现实主义核心成员
+- [[洛特雷阿蒙 Comte de Lautréamont]] — 1846–1870 法国诗人;《马尔多罗之歌》
+- [[加拉 Gala Dalí]] — 1894–1982 俄罗斯-法国; 达利妻子; 艾吕雅前妻
+- [[布纽尔 Luis Buñuel]] — 1900–1983 西班牙电影导演;《一条安达鲁狗》合作者
+- [[玛丽·卡萨特 Mary Cassatt]] — 1844–1926 美国印象派画家
+- [[波洛克 Jackson Pollock]] — 1912–1956 美国抽象表现主义旗手; 滴画法
+- [[西盖罗斯 David Alfaro Siqueiros]] — 1896–1974 墨西哥壁画家; 波洛克早期影响
+- [[本顿 Thomas Hart Benton]] — 1889–1975 美国区域主义画家; 波洛克老师
+- [[佩姬·古根海姆 Peggy Guggenheim]] — 1898–1979 美国收藏家; 波洛克金主
+- [[荣格 Carl Jung]] — 1875–1961 瑞士心理学家; 集体无意识
+- [[克拉斯纳 Lee Krasner]] — 1908–1984 美国抽象表现主义画家; 波洛克妻子
+- [[德·库宁 Willem de Kooning]] — 1904–1997 荷裔美国抽象表现主义代表;《女人》系列
+- [[汉娜·阿伦特 Hannah Arendt]] — 1906–1975 德裔美国哲学家;《人的境况》
+- [[安迪·沃霍尔 Andy Warhol]] — 1928–1987 美国波普艺术之父; 丝网印刷; 工厂
+- [[利希滕斯坦 Roy Lichtenstein]] — 1923–1997 美国波普艺术家; 漫画放大格点
+- [[劳森伯格 Robert Rauschenberg]] — 1925–2008 美国艺术家;《擦掉德·库宁的素描》
+- [[约翰斯 Jasper Johns]] — 1930– 美国艺术家;《国旗》《靶子》
+- [[汉密尔顿 Richard Hamilton]] — 1922–2011 英国波普艺术家
+- [[鲍德里亚 Jean Baudrillard]] — 1929–2007 法国后现代理论家; 拟真概念
+- [[王尔德 Oscar Wilde]] — 1854–1900 爱尔兰作家; 唯美主义
+- [[曼佐尼 Piero Manzoni]] — 1933–1963 意大利观念艺术家;《艺术家的粪便》
+- [[卡特兰 Maurizio Cattelan]] — 1960– 意大利观念艺术家;《丑角》(香蕉)
+- [[Beeple Mike Winkelmann]] — 1981– 美国数字艺术家; NFT 第一拍
+- [[库布勒 George Kubler]] — 1912–1996 美国艺术史家;《时间的形状》
+- [[约瑟夫·赖特 Joseph Wright of Derby]] — 1734–1797 英国画家;《空气泵中的实验》
+- [[老普林尼 Pliny the Elder]] — 公元 23–79 罗马博物学家;《自然史》
+- [[柏拉图 Plato]] — c.428–348 BC 希腊哲学家; 洞穴寓言
+- [[弗雷泽 James Frazer]] — 1854–1941 苏格兰人类学家;《金枝》
+- [[特蕾西·艾敏 Tracey Emin]] — 1963– 英国 yBa 艺术家
 
 ## 技法 (Techniques)
 
@@ -167,6 +463,16 @@
 - [[木刻版画 Woodcut]] — 凸版印刷，刻去白处；适合书籍插图
 - [[铜版画 Engraving]] — 凹版印刷，刻刀刻凹槽藏墨；线条精细
 - [[酒窖光 Tenebrism]] — 卡拉瓦乔标志性的明暗对比极端化技法
+- [[点彩 Pointillism]] — 大小相等、间距相等的小圆点；视觉混和的招牌技法
+- [[视觉混和 Optical Mixing]] — 邻近小色点在视网膜上混合；点彩派的物理学基础
+- [[平行笔触 Parallel Brushstrokes]] — 塞尚的核心造型手段：短直线条、严格平行、块面间方向不同形成韵律
+- [[主观色彩序列 Subjective Colour Sequence]] — 塞尚以色彩取代透视营造纵深的手段：按从明到暗排列、色彩选择带主观性
+- [[平涂 Flat Colour]] — 野兽派核心技法：抹平体积感、用色彩本身作为表达；马蒂斯把色彩从描述物体的角色解放
+- [[摩擦法 Frottage]] — 恩斯特 1925 发明; 在物体表面铺纸用铅笔擦印
+- [[拓印法 Decalcomania]] — 恩斯特发明; 颜料压印产生意外纹理
+- [[滴画法 Drip Painting]] — 波洛克标志性技法; 1947 起; 行动绘画的核心
+- [[丝网印刷 Silkscreen]] — 沃霍尔波普艺术核心技法; 机械复制+商业图像
+- [[剪纸 Cut-outs]] — 马蒂斯晚年把形状简化推至极致的剪贴技法
 
 ## 作品 (Artworks)
 
@@ -403,6 +709,646 @@
 - [[自由领导人民 Liberty Leading the People]] — 德拉克罗瓦 · 1830
 - [[斯塔尔夫人像 Portrait of Madame de Stael]] — 歌德弗卢瓦 · 19 世纪初
 - [[美狄亚的愤怒 (德拉克罗瓦) Medea about to Kill Her Children]] — 德拉克罗瓦 · 1838
+- [[萨尔丹纳帕拉之死 The Death of Sardanapalus]] — 德拉克罗瓦 · 1827 · 布面油画 (色彩派技法落地的关键样本)
+- [[遭洗劫的房间 The Destroyed Room]] — 杰夫·沃尔 · 1978 · 灯箱透明片 (致敬德拉克罗瓦)
+- [[轻骑兵军官的冲锋 An Officer of the Chasseurs Commanding a Charge]] — 籍里柯 · 1812 · 布面油画 (21 岁沙龙金奖)
+- [[美杜莎之筏 The Raft of the Medusa]] — 籍里柯 · 1818–1819 · 布面油画 (浪漫主义绘画开张标志)
+- [[疯女人 Insane Woman]] — 籍里柯 · 1822 · 布面油画 (精神病院系列)
+- [[但丁和维吉尔共渡冥河 The Barque of Dante]] — 德拉克罗瓦 · 1822 · 布面油画 (沙龙处女作)
+- [[阿尔及利亚女人 Women of Algiers in their Apartment]] — 德拉克罗瓦 · 1834 · 布面油画 (北非东方题材)
+- [[在奥尔南的晚餐后 After Dinner at Ornans]] — 库尔贝 · 1848–1849 · 布面油画 · 沙龙二等奖章
+- [[库尔贝自画像 (黑狗) Self-Portrait with Black Dog]] — 库尔贝 · 1848–1849 · 布面油画
+- [[村子里的年轻女士向放牛女孩儿施舍 Young Ladies of the Village]] — 库尔贝 · 1851 · 布面油画 · 莫尔尼公爵购藏
+- [[艺术家的画室 The Painter's Studio]] — 库尔贝 · 1855 · 布面油画 · 3m×6m，1855 世博沙龙落选
+- [[奥尔南的葬礼 A Burial at Ornans]] — 库尔贝 · 1849–1850 · 布面油画 · 3m×6m，1855 世博沙龙落选
+- [[筛麦女 The Wheat Sifters]] — 库尔贝 · 1854 · 布面油画 · 劳动题材
+- [[碎石工 The Stone Breakers]] — 库尔贝 · 1850 · 布面油画 · 1945 德累斯顿轰炸毁
+- [[浴女 The Bathers (Courbet)]] — 库尔贝 · 1853 · 布面油画 · 拿破仑三世马鞭抽过
+- [[逗鹦鹉的女子 Woman with a Parrot]] — 库尔贝 · 1866 · 布面油画 · 浪子回头期
+- [[猎狐 The Hunted Roe Deer]] — 库尔贝 · 1863 · 布面油画 · 1863 沙龙入选
+- [[L夫人肖像 (洛尔·波罗) Portrait of Mme L (Laure Borreau)]] — 库尔贝 · 1863 · 布面油画 · 情妇肖像
+- [[集会归来 The Peasants of Flagey Returning from the Fair]] — 库尔贝 · 1855 · 布面油画 · 唯一双沙龙拒收画
+- [[晚钟 The Angelus]] — 米勒 · 1857—1859 · 油画 · 巴黎奥赛博物馆
+- [[拾穗者 The Gleaners]] — 米勒 · 1857 · 油画 · 巴黎奥赛博物馆
+- [[牧羊女 Shepherdess with her Flock]] — 米勒 · 1864 · 油画 · 巴黎奥赛博物馆
+- [[播种者 The Sower]] — 米勒 · 1850 · 油画 · 波士顿美术馆
+- [[去劳动 The Walk to Work]] — 米勒 · 1851—1853 · 油画
+- [[扶锄男子 Man with a Hoe]] — 米勒 · 1862 · 油画 · 洛杉矶 Getty
+- [[高康大 Gargantua]] — 杜米埃 · 1831/1832 · 石版讽刺画
+- [[三等车厢 The Third-Class Carriage]] — 杜米埃 · 1862—1864 · 油画 · 大都会博物馆
+- [[农民的舞蹈 The Peasant Dance]] — 勃鲁盖尔（老彼得）· 约 1568 · 油画 · 维也纳艺术史博物馆
+- [[农民的婚礼 The Peasant Wedding]] — 勃鲁盖尔（老彼得）· 约 1568 · 油画 · 维也纳艺术史博物馆
+- [[农民的晚餐 The Peasant Meal]] — 路易·勒南 · 1642 · 油画 · 卢浮宫
+- [[乡村订婚 The Village Betrothal]] — 格勒兹 · 1761 · 油画 · 卢浮宫
+- [[纳税银 The Tribute Money]] — 马萨乔 · 1425 · 湿壁画
+- [[三博士来朝 (戈佐利) The Adoration of the Magi (Gozzoli)]] — 戈佐利 · 1459 · 湿壁画
+- [[施洗者约翰归隐荒野 St. John the Baptist retiring to the Desert]] — 乔瓦尼·迪·保罗 · 1453 · 木板蛋彩
+- [[圣塞巴斯蒂安殉难 Martyrdom of St. Sebastian]] — 波拉约洛 · 1473–1475 · 木板油彩
+- [[神圣爱与世俗爱 Sacred and Profane Love]] — 提香 · 1514 · 布面油画
+- [[戴珍珠耳环的少女 Girl with a Pearl Earring]] — 维米尔 · 约 1665 · 布面油画
+- [[代尔夫特一景 View of Delft]] — 维米尔 · 1660–1661 · 布面油画
+- [[阿斯卡尼俄斯猎鹿 Landscape with Ascanius Shooting the Stag of Sylvia]] — 洛兰 · 1682 · 布面油画
+- [[第欧根尼扔掉他的碗 Landscape with Diogenes]] — 普桑 · 1647 · 布面油画
+- [[库布隆森林 The Forest of Coubron]] — 柯罗 · 1872 · 布面油画
+- [[埃塞克斯威文荷公园 Wivenhoe Park, Essex]] — 康斯泰布尔 · 1816 · 布面油画
+- [[梅子白兰地 Plum Brandy]] — 马奈 · 1877 · 油彩画布
+- [[苦艾酒 The Absinthe Drinker]] — 马奈 · 1859 · 油彩画布
+- [[拾荒者 The Ragpicker]] — 马奈 · 1869 · 油彩画布
+- [[在咖啡馆 At the Cafe]] — 马奈 · 1879 · 油彩画布
+- [[奥林匹亚 Olympia]] — 马奈 · 1863 · 油彩画布
+- [[娜娜 Nana]] — 马奈 · 1877 · 油彩画布
+- [[胜利女神游乐场 A Bar at the Folies-Bergère]] — 马奈 · 1882 · 油彩画布
+- [[谷中泉水 The Ruisseau de Plaisir-Fontaine in the Valley of the Black Well]] — 库尔贝 · 1864 · 油彩画布
+- [[蓝沙发上的马奈夫人 Portrait of Madame Manet on a Blue Sofa]] — 马奈 · 1874 · 粉彩 / 纸
+- [[颓废的罗马人 The Romans in their Decadence]] — 库退尔 · 1847 · 油彩 / 画布 · 1847 沙龙金奖
+- [[穿斗牛士服的维多琳小姐 Mademoiselle V in the Costume of an Espada]] — 马奈 · 1862 · 油彩 / 画布
+- [[吹短笛的少年 The Fifer]] — 马奈 · 1866 · 油彩 / 画布
+- [[对镜维纳斯 (委拉斯贵支) Venus at her Mirror (Velázquez)]] — 委拉斯贵支 · 1647-1651 · 油彩 / 画布
+- [[弹吉他的人 The Spanish Singer]] — 马奈 · 1860 · 油彩 / 画布 · 马奈首次入沙龙
+- [[维纳斯的诞生 (卡巴内尔) The Birth of Venus (Cabanel)]] — 卡巴内尔 · 1863 · 油彩 / 画布 · 1863 沙龙金奖
+- [[阳台 The Balcony]] — 马奈 · 1868-1869 · 油彩 / 画布
+- [[牧羊女 (毕沙罗) Girl with a Stick]] — 毕沙罗 · 1881 · 布面油画
+- [[阿让特伊的花园 The Artist's Garden at Argenteuil]] — 莫奈 · 1873 · 布面油画
+- [[把杆的舞女 Dancers at the Barre]] — 德加 · 1905 · 油画/粉彩 · 1912 拍卖 43 万法郎纪录
+- [[莫奈早期人物漫画 Monet's Early Caricatures]] — 莫奈 · 约 1855–1858 · 纸本 · 勒阿弗尔时期
+- [[特鲁维尔的帆船 Sailboats at Trouville]] — 布丹 · 1884 · 油画
+- [[傍晚：消逝的幻觉 Lost Illusions]] — 格莱尔 · 1865–1867 · 油画 · 学院派代表
+- [[风暴天 Stormy Weather]] — 柯罗 · 1870 · 油画
+- [[春天的景色 Spring (Daubigny)]] — 杜比尼 · 1862 · 油画
+- [[塞纳河口 Mouth of the Seine at Honfleur]] — 莫奈 · 1865 · 油画 · 首次入选沙龙
+- [[绿衣女子 The Woman in the Green Dress]] — 莫奈 · 1866 · 油画 · 模特卡美伊
+- [[花园里的女人 Women in the Garden]] — 莫奈 · 1866 · 205×260cm 油画 · 户外完成 / 白色打底
+- [[被拖去解体的无畏号战舰 The Fighting Temeraire]] — 透纳 · 1839 · 油画 (《日出·印象》致敬对象)
+- [[日出·印象 Impression, Sunrise]] — 莫奈 · 1873 · 油画 (印象派得名却非典型印象派作品)
+- [[阿让特伊的秋天 Autumn on the Seine at Argenteuil]] — 莫奈 · 1873 · 油画
+- [[阿让特伊的房子 The Artist's House at Argenteuil]] — 莫奈 · 1873 · 油画
+- [[红罂粟 Poppy Field]] — 莫奈 · 1873 · 油画
+- [[夏日 Summer's Day]] — 莫利索 · 1879 · 油画
+- [[撑阳伞的女人 Woman with a Parasol]] — 莫奈 · 1875 · 油画 (模特卡美伊与儿子)
+- [[临终的卡美依 Camille Monet on her deathbed]] — 莫奈 · 1879 · 油画
+- [[干草垛系列 Haystacks]] — 莫奈 · 1890–1891 · 油画系列
+- [[鲁昂大教堂系列 Rouen Cathedral]] — 莫奈 · 1894 · 油画系列
+- [[睡莲系列 Water Lilies]] — 莫奈 · 1890–1926 · 油画系列 (含 1914 '形状崩溃' 版)
+- [[男人与狗 Painter Jules Le Coeur Walking his Dogs in the Forest of Fontainebleau]] — 雷诺阿 · 1866 · 布面油画
+- [[蛙塘 La Grenouillère]] — 雷诺阿 · 1869 · 布面油画
+- [[卡普辛大道 Boulevard des Capucines]] — 莫奈 · 1873–1874 · 布面油画
+- [[包厢 The Theatre Box]] — 雷诺阿 · 1874 · 布面油画
+- [[阳光下的裸女 Nude in the Sun]] — 雷诺阿 · 1876 · 布面油画
+- [[穿和服的卡美伊 Madame Monet in Japanese Costume]] — 莫奈 · 1876 · 布面油画
+- [[萨玛丽夫人 Jeanne Samary]] — 雷诺阿 · 1877 · 布面油画
+- [[摘花 Picking Flowers]] — 雷诺阿 · 1875 · 布面油画
+- [[夏庞蒂埃夫人和她的孩子们 Madame Charpentier and her children]] — 雷诺阿 · 1876–77 · 布面油画
+- [[达威尔小姐像 Portrait of Irène Cahen d'Anvers]] — 雷诺阿 · 1880 · 布面油画
+- [[划船者的午餐 Luncheon of the Boating Party]] — 雷诺阿 · 1880–81 · 布面油画
+- [[左拉肖像 (马奈) Portrait of Émile Zola]] — 马奈 · 1868 · 布面油画
+- [[女人在花园里 Woman at the Garden (Renoir)]] — 雷诺阿 · 约 1890 · 布面油画
+- [[金发浴女 Blonde Bather]] — 雷诺阿 · 1882 · 布面油画
+- [[浴女们 The Large Bathers]] — 雷诺阿 · 1887 · 布面油画
+- [[翘二郎腿的浴女 Large Bather with Crossed Legs]] — 雷诺阿 · 1904 · 布面油画
+- [[手持紫罗兰花束的莫利索 Berthe Morisot with a Bouquet of Violets]] — 马奈 · 1872 · 布面油画
+- [[阳台上的玛哈 (戈雅) Majas on a Balcony]] — 戈雅 · 1808–1814 · 布面油画
+- [[舟上女孩与鹅 Girl in a Boat with Geese]] — 莫利索 · 1889 · 布面油画
+- [[穿衣镜 The Psyche Mirror]] — 莫利索 · 1877 · 布面油画
+- [[餐厅 (莫利索) In the Dining Room]] — 莫利索 · 1886 · 布面油画
+- [[摇篮 The Cradle]] — 莫利索 · 1872 · 布面油画
+- [[穿着盛装的年轻女人 Young Girl in a Ball Gown]] — 莫利索 · 1879 · 布面油画
+- [[埃米尔塔日花园一角 Corner of the Garden at the Hermitage]] — 毕沙罗 · 1877 · 布面油画
+- [[蓬图瓦兹附近的小村庄 Hamlet around Pontoise]] — 毕沙罗 · 1872 · 布面油画
+- [[红屋顶 The Red Roofs]] — 毕沙罗 · 1877 · 布面油画
+- [[林中小径 The Woods at Marly]] — 毕沙罗 · 1871 · 布面油画
+- [[蓬图瓦兹的丰收 The Harvest Pontoise]] — 毕沙罗 · 1881 · 布面油画
+- [[吉索附近的努弗勒圣马丁 Neaufles Saint Martin near Gisors]] — 毕沙罗 · 1885 · 布面油画
+- [[伦敦老切尔西桥 Old Chelsea Bridge]] — 毕沙罗 · 1890 · 布面油画
+- [[贝列里一家 The Bellelli Family]] — 德加 · 1860–1862 · 布面油画
+- [[舞女在台上 Two Dancers on Stage]] — 德加 · 1874 · 布面油画
+- [[舞女登台 Two Dancers Entering the Stage]] — 德加 · 1877–1878 · 粉彩 / 单刻版画
+- [[芭蕾明星 The Star]] — 德加 · 1878 · 纸上粉彩
+- [[蓝衣舞女 Dancers in Blue]] — 德加 · 约 1895 · 布面油画 / 粉彩
+- [[着蝴蝶舞衣的舞女 Dancers in Butterfly Costumes]] — 德加 · 1880 · 粉彩
+- [[舞蹈考试 The Dancing Examination]] — 德加 · 约 1880 · 纸上粉彩与炭笔
+- [[舞蹈课 The Dance Class]] — 德加 · 1874 · 布面油画
+- [[彩排 Stage Rehearsal]] — 德加 · 1878 · 粉彩与水粉 / 单刻版画
+- [[浴盆 The Tub]] — 德加 · 1886 · 纸上粉彩
+- [[迈入盆中的浴女 Bather Stepping into a Tub]] — 德加 · 约 1890 · 纸上粉彩
+- [[姐妹 (莫利索) The Sisters (Morisot)]] — 莫利索 · 1869 · 布面油画
+- [[黄色的基督 The Yellow Christ]] — 高更 · 1889 · 布面油画 (046 引为"印象派之后看不懂"样本)
+- [[大碗岛的星期天下午 A Sunday Afternoon on the Island of La Grande Jatte]] — 修拉 · 1884–1886 · 布面油画
+- [[收干草 (毕沙罗) The Hay Harvest]] — 毕沙罗 · 1887 · 布面油画
+- [[弹钢琴的女人 Marguerite Gachet at the Piano]] — 凡·高 · 1890 · 布面油画
+- [[康康舞 The Can-can]] — 修拉 · 1889–1890 · 布面油画
+- [[马戏 The Circus]] — 修拉 · 1890–1891 · 布面油画 (修拉遗作)
+- [[擦粉的少女 Young Woman Powdering Herself]] — 修拉 · 1889–1890 · 布面油画
+- [[俄狄浦斯与狮身人面像 (莫罗) Oedipus and the Sphinx]] — 莫罗 · 1864 · 油彩画布
+- [[幻想 (夏凡纳) Fantasy]] — 夏凡纳 · 1866 · 油彩画布
+- [[马拉美的肖像 Portrait of Stéphane Mallarmé]] — 马奈 · 1876 · 油彩画布
+- [[犹大之吻 (乔托) Kiss of Judas]] — 乔托 · 1304–1306 · 湿壁画
+- [[耶稣进入耶路撒冷 (杜乔) Entry into Jerusalem]] — 杜乔 · 1308–1311 · 蛋彩木板
+- [[贫穷的渔夫 The Poor Fisherman]] — 夏凡纳 · 1881 · 布面油画
+- [[希望 (夏凡纳) Hope]] — 夏凡纳 · 1872 · 布面油画
+- [[死亡与少女 (夏凡纳) Death and the Maidens]] — 夏凡纳 · 1872 · 布面油画
+- [[冥想 (夏凡纳) Meditation]] — 夏凡纳 · 1869 · 布面油画
+- [[毛主席去安源 Chairman Mao Goes to Anyuan]] — 刘春华 · 1967 · 布面油画
+- [[在新时代——亚当夏娃的启示 In the New Era—Revelation from Adam and Eve]] — 孟禄丁、张群 · 1985 · 布面油画
+- [[红色人体 Red Body]] — 毛旭辉 · 1984 · 布面油画
+- [[法厄同 (莫罗) The Fall of Phaethon]] — 莫罗 · 1878 · 水彩/纸本
+- [[在希律王前舞蹈的莎乐美 Salome Dancing before Herod]] — 莫罗 · 1876 · 油彩画布
+- [[显灵 The Apparition]] — 莫罗 · 1874–1876 · 水彩/纸本
+- [[莎乐美 (莫罗 1875) Salome]] — 莫罗 · 1875 · 油彩画布
+- [[帕卡与死亡天使 The Parca and the Angel of Death]] — 莫罗 · 1890 · 油彩画布
+- [[眼睛像奇诡的气球飘向无穷 The Eye Like a Strange Balloon Mounts Towards Infinity]] — 雷东 · 1882 · 石版画/炭笔
+- [[大卫与歌利亚 (雷东) David and Goliath (Redon)]] — 雷东 · 1875 · 黑白
+- [[哭泣的蜘蛛 The Crying Spider]] — 雷东 · 1881 · 炭笔
+- [[展望 Vision]] — 雷东 · 1883 · 黑白
+- [[佛陀 (雷东) The Buddha (Redon)]] — 雷东 · 1905 · 粉彩
+- [[花瓶中的花 Flowers in a Vase]] — 雷东 · 1909 · 粉彩/油彩
+- [[花瓶 Vase of Flowers]] — 雷东 · 1910 · 粉彩/油彩
+- [[独眼巨人 The Cyclops]] — 雷东 · 1898 · 板上油彩
+- [[黄色背景的树 Trees on a Yellow Background]] — 雷东 · 1901
+- [[哥特式拱门下的女人 Woman In Profile Under A Gothic Arch]] — 雷东 · 1907
+- [[维纳斯的诞生 (雷东) The Birth of Venus (Redon)]] — 雷东 · 1910
+- [[读《事件》报的父亲 The Artist's Father Reading L'Événement]] — 塞尚 · 1866 · 油画
+- [[草地上的午餐 (塞尚) Luncheon on the Grass (Cézanne)]] — 塞尚 · 1869 · 油画
+- [[耶稣在灵薄狱 Christ in Limbo]] — 塞尚 · 1867 · 油画
+- [[风景 (塞尚 1867) Landscape (Cézanne 1867)]] — 塞尚 · 1867 · 油画
+- [[现代奥林匹亚 A Modern Olympia]] — 塞尚 · 1869-1870 · 布面油画
+- [[奥维尔的环路 The Turn in the Road at Auvers]] — 塞尚 · 1873 · 布面油画
+- [[蓬图瓦兹的道路 (毕沙罗) The Saint-Antoine Road at l'Hermitage]] — 毕沙罗 · 1875 · 布面油画
+- [[蓬图瓦兹的道路 (塞尚) Road at Pontoise]] — 塞尚 · 1875 · 布面油画
+- [[曼西之桥 Bridge at Maincy]] — 塞尚 · 1882 · 布面油画
+- [[三个浴女 Three Bathers]] — 塞尚 · 1874-1875 · 布面油画
+- [[圣维多利亚山 Mont Sainte-Victoire]] — 塞尚 · 1904-1906 · 布面油画
+- [[林中的乱石 Rocks in the Wood]] — 塞尚 · 1894-1898 · 油彩画布
+- [[河岸 Riverbanks (Cézanne)]] — 塞尚 · 1905 · 油彩画布
+- [[三个梨 Three Pears]] — 塞尚 · 1878-1879 · 油彩画布
+- [[苹果和橘子 Apples and Oranges]] — 塞尚 · 1900 · 油彩画布
+- [[青瓜和静物 Still Life with Green Melon]] — 塞尚 · 1906 · 油彩 / 水彩
+- [[四个浴女 Four Bathers]] — 塞尚 · 1877-1878 · 油彩画布
+- [[花园里的人物 Figures in a Garden]] — 高更 · 1882 · 布面油画
+- [[比霍雷尔教堂下的果园 An Orchard under the Church of Bihorel]] — 高更 · 1884 · 布面油画
+- [[树下的小屋 Huts under the Trees]] — 高更 · 1887 · 布面油画
+- [[有三条小狗的静物 Still Life with Three Dogs]] — 高更 · 1888 · 布面油画
+- [[打干草 (高更) Haymaking]] — 高更 · 1888 · 布面油画
+- [[三个跳舞的布列塔尼女孩儿 Breton Girls Dancing]] — 高更 · 1888 · 布面油画
+- [[布列塔尼的鹅 Breton Boy in a Landscape with Goose]] — 高更 · 1889 · 布面油画
+- [[布列塔尼的干草堆 Haystacks in Brittany]] — 高更 · 1890 · 布面油画
+- [[头形花瓶和日本木刻静物 Still Life with Head Shaped Vase and Japanese Woodencut]] — 高更 · 1889 · 布面油画
+- [[布列塔尼农妇 (贝尔纳) Breton Peasants]] — 贝尔纳 · 1888 · 布面油画
+- [[雅各与天使搏斗 Vision after the Sermon]] — 高更 · 1888 · 布面油画 (景泰蓝派代表作)
+- [[失贞 The Loss of Virginity]] — 高更 · 1890–1891 · 布面油画
+- [[阿尔附近的风景 Landscape near Arles]] — 高更 · 1888 · 布面油画
+- [[阿尔的风景 Landscape at Arles]] — 高更 · 1888 · 布面油画
+- [[黑猪 The Black Pigs]] — 高更 · 1891 · 布面油画
+- [[海边 Fatata te Miti]] — 高更 · 1892 · 布面油画 (塔希提期)
+- [[神的日子 Mahana no atua]] — 高更 · 1894 · 布面油画 (塔希提期)
+- [[死人的注视 Manao Tupapau]] — 高更 · 1892 · 布面油画 (塔希提期)
+- [[我们从哪里来，我们是谁，我们要往哪里去 Where Do We Come From What Are We Where Are We Going]] — 高更 · 1897–1898 · 布面油画 (塔希提遗作)
+- [[铲煤工 Coal Shoveler]] — 凡·高 · 1879 · 素描
+- [[壁炉边 Near the Hearth]] — 凡·高 · 1881 · 素描
+- [[在路上 En Route]] — 凡·高 · 1881 · 素描
+- [[花田 Bulb Fields]] — 凡·高 · 1883 · 油画
+- [[织工 Weaver, Seen from the Front]] — 凡·高 · 1884 · 油画
+- [[悲伤 Sorrow]] — 凡·高 · 1882 · 素描/石版（模特西恩）
+- [[西恩母亲的后花园 The Back Garden of Sien's Mother's House]] — 凡·高 · 1882 · 素描
+- [[停尸床上的女人 Woman on her Deathbed]] — 凡·高 · 1883 · 素描（模特西恩）
+- [[吃土豆的人 The Potato Eaters]] — 凡·高 · 1885 · 布面油画
+- [[牡丹、罂粟和菊花 Vase with Poppies, Cornflowers, Peonies and Chrysanthemums]] — 凡·高 · 1886 · 布面油画
+- [[花园里的女士 (蒙蒂切利) Ladies in the Garden]] — 蒙蒂切利 · 1870 · 木板油画
+- [[阿尔的吊桥 The Langlois Bridge at Arles]] — 凡·高 · 1888 · 布面油画
+- [[塞纳河上的桥 Bridges across the Seine at Asnières]] — 凡·高 · 1887 · 布面油画
+- [[风景 (凡·高 1888) Landscape (Van Gogh 1888)]] — 凡·高 · 1888 · 布面油画 (俯瞰视角样本)
+- [[鸢尾花 Irises]] — 凡·高 · 1889 · 布面油画
+- [[亚历山大·里德肖像 Portrait of Alexander Reid]] — 凡·高 · 1887 · 卡纸油画
+- [[红色的葡萄园 The Red Vineyard]] — 凡·高 · 1888 · 布面油画 (生前唯一卖出)
+- [[丰收 (凡·高) Harvest (Van Gogh)]] — 凡·高 · 1888 · 布面油画 (Arles)
+- [[15朵向日葵 Still Life with 15 Sunflowers]] — 凡·高 · 1888 · 布面油画
+- [[黄房子 The Yellow House]] — 凡·高 · 1888 · 布面油画
+- [[卧室 (凡·高) Bedroom (Van Gogh)]] — 凡·高 · 1888 · 布面油画
+- [[阿尔咖啡馆的露台 The Cafe Terrace at Arles]] — 凡·高 · 1888 · 布面油画
+- [[耳朵打绷带的自画像 Self-Portrait with Bandaged Ear]] — 凡·高 · 1889 · 布面油画
+- [[奥维尔的小教堂 The Church at Auvers]] — 凡·高 · 1890 · 布面油画
+- [[丝柏 Road with Cypress and Star]] — 凡·高 · 1890 · 布面油画
+- [[星月夜 The Starry Night]] — 凡·高 · 1889 · 布面油画 (MoMA)
+- [[自画像 1889 (凡·高) Self-Portrait 1889 (Van Gogh)]] — 凡·高 · 1889 · 布面油画
+- [[麦田群鸦 Wheatfield with Crows]] — 凡·高 · 1890 · 布面油画 (奥维尔遗作)
+- [[布吉瓦尔餐厅 Restaurant de la Machine at Bougival]] — 马蒂斯 · 1897 · 布面油画
+- [[科里乌尔港 Le Port de Pêche de Collioure]] — 马蒂斯 · 1905 · 布面油画
+- [[大卫 (多纳泰罗) David (Donatello)]] — 多纳泰罗 · 约 1440 · 青铜雕塑 (Bargello)
+- [[读书的女人 (马蒂斯) Woman Reading (Matisse)]] — 马蒂斯 · 1894 · 布面油画
+- [[柳橙与静物 Still Life with Oranges]] — 马蒂斯 · 1899 · 布面油画
+- [[餐桌 The Dinner Table]] — 马蒂斯 · 1897 · 布面油画
+- [[科西嘉的日落 Sunset in Corsica]] — 马蒂斯 · 1898 · 布面油画
+- [[画室中的裸女 Decorative Figure]] — 马蒂斯 · 1908 · 布面油画
+- [[圣阿德莱斯的沙滩 The Beach at Sainte-Adresse]] — 马蒂斯 · 1904 · 布面油画
+- [[奢华、宁静与欢乐 Luxury Calm and Pleasure]] — 马蒂斯 · 1904 · 布面油画 (奥赛)
+- [[浴女们 (塞尚 1874) The Bathers (Cézanne 1874)]] — 塞尚 · 1874 · 布面油画
+- [[戴帽子的女人 Woman with a Hat]] — 马蒂斯 · 1905 · 布面油画 (SFMOMA, Steins 收藏)
+- [[绿线 Madame Matisse with Green Stripes]] — 马蒂斯 · 1905 · 布面油画
+- [[开着的窗户 The Open Window]] — 马蒂斯 · 1905 · 布面油画
+- [[生活的欢乐 The Joy of Life]] — 马蒂斯 · 1906 · 布面油画
+- [[有雕像的静物 Still Life with Statuette]] — 马蒂斯 · 1906 · 油画
+- [[红色的和谐 The Dessert Harmony in Red]] — 马蒂斯 · 1908 · 油画
+- [[舞蹈 (马蒂斯) Dance (Matisse)]] — 马蒂斯 · 1910 · 油画 (史楚金委托)
+- [[音乐 (马蒂斯) Music (Matisse)]] — 马蒂斯 · 1910 · 油画 (史楚金委托)
+- [[西班牙静物 (马蒂斯) Spanish Still Life (Matisse)]] — 马蒂斯 · 1911 · 油画
+- [[伊西的花园 Gardens at Issy]] — 马蒂斯 · 1917 · 油画
+- [[粉色的裸女 Pink Nude]] — 马蒂斯 · 1935 · 油画
+- [[伊卡洛斯 (马蒂斯) Icarus (Matisse)]] — 马蒂斯 · 1944 · 剪纸
+- [[蓝色裸女系列剪纸 Blue Nude]] — 马蒂斯 · 1952 · 剪纸
+- [[老树 The Old Tree]] — 德朗 · 1905 · 油画
+- [[滑铁卢大桥 Waterloo Bridge]] — 德朗 · 1906 · 油画 (伦敦系列)
+- [[海德公园 Hyde Park]] — 德朗 · 1906 · 油画
+- [[威斯敏斯特大桥 Westminster Bridge]] — 德朗 · 1906 · 油画
+- [[科利乌尔的山 Mountains at Collioure]] — 德朗 · 1905 · 油画
+- [[两只小船 Two Barges]] — 德朗 · 1906 · 油画
+- [[红树 Landscape with Red Trees]] — 弗拉芒克 · 1906 · 油画
+- [[布吉瓦尔帆船赛 The Regattas in Bougival]] — 弗拉芒克 · 1905 · 油画
+- [[水边风景 Landscape by Water]] — 弗拉芒克 · 1906 · 油画
+- [[有干草垛的立体主义风景 Cubist Landscape with Haystacks]] — 杜菲 · 1908 · 油画
+- [[地中海居民 The Mediterraneans]] — 杜菲 · 1907 · 油画
+- [[考斯的帆船比赛 Regatta at Cowes]] — 杜菲 · 1934 · 油画
+- [[丑角狂欢节 The Harlequin's Carnival]] — 米罗 · 1924–1925 · 油画
+- [[阿拉伯骑士 The Arab Horseman]] — 杜菲 · 1922 · 油画
+- [[帆船赛的回归 The Return of the Regattas]] — 杜菲 · 1934 · 油画
+- [[威尼斯拉多加纳 Venise La Dogana]] — 杜菲 · 1938 · 油画
+- [[海葵 Anemones]] — 杜菲 · 1937 · 油画
+- [[橙色音乐会 The Orange Concert]] — 杜菲 · 1942 · 油画
+- [[卡恩韦勒肖像 Portrait of Daniel-Henry Kahnweiler]] — 毕加索 · 1910 · 油画
+- [[赤脚的姑娘 The Barefoot Girl]] — 毕加索 · 1895 · 油画 (14 岁少作)
+- [[自画像 (毕加索 1900) Self-Portrait (Picasso 1900)]] — 毕加索 · 1900 · 油画
+- [[加莱特磨坊 (毕加索) Moulin de la Galette (Picasso)]] — 毕加索 · 1900 · 油画 (致敬雷诺阿)
+- [[戴蓝色帽子的女人 Woman with a Blue Hat]] — 毕加索 · 1901 · 油画
+- [[两个街头卖艺人 Two Acrobats]] — 毕加索 · 1901 · 油画
+- [[小丑舞蹈家 Pierrot and Colombina]] — 毕加索 · 1900 · 油画
+- [[康康舞 (毕加索) French Cancan (Picasso)]] — 毕加索 · 1901 · 油画 (致敬劳特累克)
+- [[粗野的拥抱 The Brutal Embrace]] — 毕加索 · 1900 · 油画
+- [[圣安德鲁与圣弗朗西斯 St. Andrew and St. Francis]] — 埃尔·格列柯 · 约 1595 · 油画
+- [[老吉他手 The Old Guitarist]] — 毕加索 · 1903–1904 · 油画 (蓝色时期代表)
+- [[两姐妹 (毕加索) The Two Sisters (Picasso)]] — 毕加索 · 1902 · 油画 (蓝色时期)
+- [[海边的可怜人 The Poor by the Sea]] — 毕加索 · 1903 · 油画 (蓝色时期)
+- [[人生 (毕加索) La Vie]] — 毕加索 · 1903 · 油画 (蓝色时期代表)
+- [[烫衣服的女人 Woman Ironing]] — 毕加索 · 1904 · 油画 (蓝色时期)
+- [[费尔南德头像 Head of Fernande]] — 毕加索 · 1906 · 油画 (玫瑰红时期)
+- [[穿衬衫的女人 Woman in a Chemise]] — 毕加索 · 1905 · 油画
+- [[不快乐的母亲和孩子 Mother and Child (Picasso)]] — 毕加索 · 1903 · 油画 (蓝色时期)
+- [[拿烟斗的男孩 Boy with a Pipe]] — 毕加索 · 1905 · 油画 (玫瑰红时期 / 1.04 亿拍卖)
+- [[两个裸女 Two Nudes (Picasso 1906)]] — 毕加索 · 1906 · 油画 (玫瑰红→黑人转折)
+- [[少女与山羊 Girl and Goat (Picasso)]] — 毕加索 · 1906 · 油画
+- [[格特鲁德·斯坦因肖像 Portrait of Gertrude Stein]] — 毕加索 · 1906 · 油画 (90 次坐画 / 黑人时期试水)
+- [[持调色板的自画像 Self-Portrait with Palette (Picasso)]] — 毕加索 · 1906 · 油画
+- [[亚威农少女 Les Demoiselles d'Avignon]] — 毕加索 · 1907 · 油画 · 20 世纪艺术最重要的转折性画作
+- [[揭开第五封印 The Opening of the Fifth Seal]] — 埃尔·格列柯 · 1608–1614 · 油画 (亚威农少女构图蓝本)
+- [[友谊 Friendship (Picasso)]] — 毕加索 · 1908 · 油画 (黑人时期)
+- [[三个裸女 Three Women (Picasso)]] — 毕加索 · 1908 · 油画 (黑人时期)
+- [[弹曼陀铃的女人 Woman with a Mandolin (Picasso)]] — 毕加索 · 1908 · 油画
+- [[穿短上衣的少女 Woman with Yellow Shirt (Picasso)]] — 毕加索 · 1909 · 油画
+- [[沃拉尔肖像 Portrait of Ambroise Vollard]] — 毕加索 · 1910 · 油画 (分析立体主义)
+- [[女人与梨 Woman with Pears]] — 毕加索 · 1909 · 油画
+- [[有朗姆酒瓶的静物 Still Life with Bottle of Rum]] — 毕加索 · 1911 · 油画
+- [[我的美人（女吉他手）My Beauty (Woman with Guitar)]] — 毕加索 · 1911 · 油画 (Ma Jolie)
+- [[钢琴和手风琴家 The Piano Accordionist]] — 毕加索 · 1911 · 油画
+- [[希欧达的风景 Landscape at La Ciotat]] — 勃拉克 · 1907 · 油画
+- [[安特卫普近郊的风景 Landscape near Antwerp]] — 勃拉克 · 1906 · 油画
+- [[葡萄牙人 The Portuguese]] — 勃拉克 · 1911 · 油画 (字母首入画)
+- [[裸女（我爱伊娃） Nude (I Love Eva)]] — 毕加索 · 1912 · 油画
+- [[小提琴 (毕加索 1912) Violin (Picasso 1912)]] — 毕加索 · 1912 · 油画
+- [[小提琴 (毕加索 1910) Violin (Picasso 1910)]] — 毕加索 · 1910 · 油画
+- [[泉源 (毕加索) The Source (Picasso)]] — 毕加索 · 1921 · 油画 (新古典主义期)
+- [[钢琴课 (马蒂斯) The Piano Lesson]] — 马蒂斯 · 1916 · 油画 (立体主义涉足)
+- [[摩洛哥人 (马蒂斯) Moroccans]] — 马蒂斯 · 1915–1916 · 油画
+- [[三个音乐家 Three Musicians]] — 毕加索 · 1921 · 油画 (综合立体主义代表)
+- [[三个舞蹈家 The Three Dancers]] — 毕加索 · 1925 · 油画
+- [[椅子上的奥尔加 Portrait of Olga in the Chair]] — 毕加索 · 1918 · 油画
+- [[格尔尼卡 Guernica]] — 毕加索 · 1937 · 油画 (反战巨制)
+- [[梦 (毕加索) Dream (Picasso)]] — 毕加索 · 1932 · 油画 (玛丽·泰莱斯)
+- [[哭泣的女人 Weeping Woman]] — 毕加索 · 1937 · 油画 (朵拉·玛尔)
+- [[玛雅和娃娃 Maya with Her Doll]] — 毕加索 · 1938 · 油画
+- [[弗朗索瓦斯半身像 Bust of Françoise]] — 毕加索 · 1946 · 油画
+- [[拿花的杰奎琳 Jacqueline with Flowers]] — 毕加索 · 1954 · 油画
+- [[埃斯塔克的房子 Houses at L'Estaque]] — 勃拉克 · 1908 · 油画 (立体主义起点)
+- [[托尔托萨的砖厂 Brick Factory at Tortosa]] — 毕加索 · 1909 · 油画
+- [[裸女 (勃拉克 1908) Big Nude]] — 勃拉克 · 1908 · 油画
+- [[坐着的男人 (毕加索 1909) Seated Male Nude]] — 毕加索 · 1909 · 油画
+- [[葡萄牙人 (勃拉克) Portuguese]] — 勃拉克 · 1911 · 油画
+- [[果盘和杯子 (勃拉克) Fruit Dish and Glass]] — 勃拉克 · 1912 · 拼贴 (papier collé 首作)
+- [[抽烟的士兵 (莱热) Smoking Soldier]] — 莱热 · 1916 · 油画
+- [[牌局 (莱热) Soldiers Playing Cards]] — 莱热 · 1917 · 油画
+- [[俄国芭蕾舞团 (莱热) The Exit of Russian Ballet]] — 莱热 · 1914 · 油画
+- [[楼梯 (莱热) The Staircase]] — 莱热 · 1914 · 油画
+- [[红色背景上的裸女 (莱热) Nude on a Red Background]] — 莱热 · 1927 · 油画
+- [[灰色的杂耍演员 (莱热) Acrobats in Gray]] — 莱热 · 1942 · 油画
+- [[圆盘风景 (德劳内) Disc Landscape]] — 德劳内 · 1913 · 油画
+- [[圣塞沃林教堂3号 (德劳内) Saint Severin No.3]] — 德劳内 · 1909 · 油画
+- [[圣塞沃林教堂7号 (德劳内) Saint Severin No.7]] — 德劳内 · 1909 · 油画
+- [[圣母院的尖塔 (德劳内) The Spire of Notre Dame]] — 德劳内 · 1910 · 油画
+- [[埃菲尔铁塔 (德劳内) Eiffel Tower]] — 德劳内 · 1910 · 油画
+- [[开向城市的窗 (德劳内) Window on the City]] — 德劳内 · 1912 · 油画
+- [[第一盘 (德劳内) First Disc]] — 德劳内 · 1912 · 油画 (俄耳浦斯主义起点)
+- [[韵律 (德劳内) Rhythm]] — 德劳内 · 1934 · 油画
+- [[韵律，生活的乐趣 (德劳内) Rhythm, Joy of Life]] — 德劳内 · 1930 · 油画
+- [[仲夏夜 Summer Night in Studenterlunden]] — 蒙克 · 1889 · 油画
+- [[吸血鬼 Vampire]] — 蒙克 · 1893–1894 · 油画
+- [[病房中的死亡 Death in the Sickroom]] — 蒙克 · 1893 · 油画
+- [[病中的女孩儿 The Sick Child]] — 蒙克 · 1885+1907 · 油画 (两版本同 folder)
+- [[点炉火的女孩儿 Girl Kindling a Stove]] — 蒙克 · 1883 · 油画
+- [[坐在床边的女孩儿 Girl Sitting on the Edge of the Bed]] — 蒙克 · 1888 · 油画
+- [[夏之夜 Inger on the Beach]] — 蒙克 · 1889 · 油画
+- [[卡尔·约翰大街的春天 Spring Day on Karl Johan Street]] — 蒙克 · 1890 · 油画
+- [[呐喊 The Scream]] — 蒙克 · 1893 · 油画 (表现主义最著名作品)
+- [[焦虑 Anxiety]] — 蒙克 · 1894 · 油画
+- [[绝望 Despair]] — 蒙克 · 1892–1893 · 油画 (双版本)
+- [[嫉妒 Jealousy]] — 蒙克 · 1895 · 油画
+- [[风暴 The Storm]] — 蒙克 · 1893 · 油画
+- [[罗斯和艾美莉 Rose and Amelie]] — 蒙克 · 1894 · 油画
+- [[月光 Moonlight]] — 蒙克 · 1895 · 油画
+- [[夏夜 Summer Night's Dream]] — 蒙克 · 1893 · 油画
+- [[海滩上的少女 Young Woman on the Beach]] — 蒙克 · 1896 · 油画
+- [[青春期 Puberty]] — 蒙克 · 1894–1895 · 油画
+- [[圣母像 Madonna (Munch)]] — 蒙克 · 1894–1895 · 油画
+- [[绿色背景的自画像和图拉肖像 Self-Portrait against a Green Background]] — 蒙克 · 1905 · 油画
+- [[女凶手 The Killer (Munch)]] — 蒙克 · 1906 · 油画
+- [[马拉之死 The Death of Marat (Munch)]] — 蒙克 · 1907 · 油画 (vs 大卫版)
+- [[街景 (基希纳) Street, Berlin]] — 基希纳 · 1913 · 油画
+- [[死亡之舞 (基希纳) Dance of Death]] — 基希纳 · 1912 · 油画
+- [[布格斯他肯港口 (基希纳) Burgstaaken Harbour]] — 基希纳 · 1912 · 油画
+- [[普利斯尼茨河口的桥 (基希纳) Bridge at the Mouth of the Priessnitz]] — 基希纳 · 1909 · 油画
+- [[有模特的自画像 (基希纳) Self-Portrait with Model]] — 基希纳 · 1910 · 油画
+- [[穿着军装的自画像 (基希纳) Self-Portrait as a Soldier]] — 基希纳 · 1915 · 油画
+- [[树林 (诺尔德) Forest Path]] — 诺尔德 · 1929 · 油画
+- [[阅读 (诺尔德) Spring in the Room]] — 诺尔德 · 1904 · 油画
+- [[秋天的海 (诺尔德) Autumn Sea]] — 诺尔德 · 1911 · 油画
+- [[基督上十字架 (诺尔德) The Life of Christ]] — 诺尔德 · 1911–1912 · 九联画
+- [[面具 (诺尔德) Mask Still Life III]] — 诺尔德 · 1911 · 油画
+- [[疯狂跳舞的孩子 (诺尔德) Wildly Dancing Children]] — 诺尔德 · 1909 · 油画
+- [[蜡烛与舞者 (诺尔德) Candle Dancers]] — 诺尔德 · 1912 · 油画
+- [[围着金牛犊的舞蹈 (诺尔德) Dance Around the Golden Calf]] — 诺尔德 · 1910 · 油画
+- [[田园牧歌 Idylle (克里姆特)]] — 克里姆特 · 1884 · 油画
+- [[医学 Medicine (克里姆特)]] — 克里姆特 · 1899–1907 · 油画 (维也纳大学)
+- [[法学 Jurisprudence (克里姆特)]] — 克里姆特 · 1899–1907 · 油画 (维也纳大学)
+- [[哲学 Philosophy (克里姆特)]] — 克里姆特 · 1899–1907 · 油画 (维也纳大学)
+- [[阿特湖中的小岛 Island in the Attersee]] — 克里姆特 · 1901 · 油画
+- [[花园 Blumengarten (克里姆特)]] — 克里姆特 · 1905 · 油画
+- [[白衣少女 The White Girl (惠斯勒)]] — 惠斯勒 · 1862 · 油画
+- [[艾米莉·弗洛奇肖像 Portrait of Emilie Flöge]] — 克里姆特 · 1902 · 油画
+- [[阿黛尔夫人像 Adele Bloch-Bauer]] — 克里姆特 · 1907 · 油画 (黄金时期巅峰)
+- [[吻 The Kiss (克里姆特)]] — 克里姆特 · 1907–1908 · 油画 (维也纳奥地利美景宫)
+- [[生命与死亡 Life and Death (克里姆特)]] — 克里姆特 · 1908–1915 · 油画
+- [[少女 The Virgin (克里姆特)]] — 克里姆特 · 1913 · 油画
+- [[金鱼 Goldfish (克里姆特)]] — 克里姆特 · 1901–1902 · 油画
+- [[轻蔑的女人 The Scornful Woman]] — 席勒 · 1910 · 水彩
+- [[林间小溪 Winding Brook]] — 席勒 · 1907 · 油画
+- [[草地上的花和树 Meadow with Flowers and Trees]] — 席勒 · 1907 · 油画
+- [[乡村 (席勒) Village with Mountains]] — 席勒 · 1907 · 油画
+- [[下奥地利风景 Landscape in Lower Austria]] — 席勒 · 1907 · 油画
+- [[插花 (席勒) Stylized Flowers]] — 席勒 · 1908 · 水彩
+- [[红衣主教和修女 Cardinal and Nun]] — 席勒 · 1912 · 油画 (致敬克里姆特《吻》)
+- [[自画像 (席勒 1910) Self Portrait (Schiele)]] — 席勒 · 1910 · 水彩 / 铅笔
+- [[赤裸的自画像 (席勒 1910) Self Portrait Nude (Schiele)]] — 席勒 · 1910 · 水彩
+- [[格蒂·席勒的肖像 Portrait of Gerti Schiele]] — 席勒 · 1909 · 油画
+- [[弗里德里克玛丽亚比尔的肖像 Portrait of Friederike Maria Beer]] — 席勒 · 1914 · 油画
+- [[自画像 1911 (席勒) Self-Portrait 1911 (Schiele)]] — 席勒 · 1911 · 水彩
+- [[穿橙色裙子跪着的女人 Kneeling Female in Orange Dress]] — 席勒 · 1910 · 水彩
+- [[母女 (席勒) Mother and Child (Schiele)]] — 席勒 · 1910 · 油画
+- [[向日葵 (席勒) Sunflower (Schiele)]] — 席勒 · 1909–1910 · 油画
+- [[紫红色的秋树 Autumn Tree with Fuchsias]] — 席勒 · 1909 · 油画
+- [[黄金年代 (巴尔蒂斯) The Golden Years (Balthus)]] — 巴尔蒂斯 · 1944–1946 · 油画
+- [[少女与死神 (席勒) Death and the Maiden (Schiele)]] — 席勒 · 1915 · 油画
+- [[举起手臂的男性裸体 Male Nude with Arm Raised]] — 席勒 · 1914 · 水彩
+- [[穿红衬衣的沃莉 Wally with a Red Blouse]] — 席勒 · 1913 · 水彩
+- [[穿着黑色丝袜的沃莉 Wally Neuzil in Black Stockings]] — 席勒 · 1913 · 水彩
+- [[屈膝坐着的女人 (爱迪斯) Seated Woman with Bent Knee (Edith Harms)]] — 席勒 · 1917 · 水彩
+- [[穿着绿色丝袜斜倚的女人 (爱迪斯) Reclining Woman with Green Stockings (Edith Harms)]] — 席勒 · 1917 · 水彩
+- [[一家人 (席勒) The Family (Schiele)]] — 席勒 · 1918 · 油画 (席勒遗作)
+- [[世界的起源 (库尔贝) L'Origine du monde]] — 库尔贝 · 1866 · 油画 (075 stub)
+- [[风中新娘 The Bride of the Wind]] — 柯科施卡 · 1913–1914 · 油画 (1.8×2.2m)
+- [[我和我的村庄 I and the Village]] — 夏加尔 · 1911 · 油画
+- [[有七个手指的自画像 Self-Portrait with Seven Fingers]] — 夏加尔 · 1913 · 油画
+- [[飞翔的马车 Flying Carriage]] — 夏加尔 · 1913 · 油画
+- [[生日 (夏加尔) The Birthday]] — 夏加尔 · 1915 · 油画
+- [[新婚 (夏加尔) The Promenade]] — 夏加尔 · 1917–1918 · 油画
+- [[有两张脸的新娘 The Bride with Double Faces]] — 夏加尔 · 1927 · 油画
+- [[绿色的小提琴手 The Green Violinist]] — 夏加尔 · 1923–1924 · 油画
+- [[斜躺的诗人 The Reclining Poet]] — 夏加尔 · 1915 · 油画
+- [[埃菲尔铁塔下的新人 The Bride and Groom of the Eiffel Tower]] — 夏加尔 · 1938–1939 · 油画
+- [[戴帽子的裸女 (莫迪里阿尼) Nude with a Hat]] — 莫迪里阿尼 · 1907–08 · 布面油画
+- [[悲痛的裸女 (莫迪里阿尼) Nudo Dolente]] — 莫迪里阿尼 · 1908 · 布面油画
+- [[大提琴演奏家 (莫迪里阿尼) The Cellist]] — 莫迪里阿尼 · 1909 · 布面油画
+- [[海豹 (布朗库西) The Miracle (Seal I)]] — 布朗库西 · 大理石
+- [[鱼 (布朗库西) Fish]] — 布朗库西 · 1926 · 大理石/青铜
+- [[麦雅斯特拉 (布朗库西) Maiastra]] — 布朗库西 · 1910–12 · 抛光青铜
+- [[空间的鸟 (布朗库西) Bird in Space]] — 布朗库西 · 1928 · 抛光青铜
+- [[头像 (莫迪里阿尼 1910) Head of a Woman]] — 莫迪里阿尼 · 1910–11 · 石灰石
+- [[头像 (莫迪里阿尼 1913) Head]] — 莫迪里阿尼 · 1913 · 石灰石
+- [[蓬巴杜夫人 (莫迪里阿尼) Madame Pompadour]] — 莫迪里阿尼 · 1915 · 布面油画
+- [[女像柱头像 (莫迪里阿尼) Caryatid Head]] — 莫迪里阿尼 · 约 1909 · 纸上素描
+- [[阿赫玛托娃 (莫迪里阿尼) Anna Akhmatova]] — 莫迪里阿尼 · 1911 · 纸上素描
+- [[红发女人 (莫迪里阿尼) Woman with Red Hair]] — 莫迪里阿尼 · 1917 · 布面油画
+- [[艺术家的妻子 (莫迪里阿尼) The Artist's Wife]] — 莫迪里阿尼 · 1918 · 布面油画
+- [[露尼娅·捷克沃斯卡的肖像 (莫迪里阿尼) Portrait of Lunia Czechowska]] — 莫迪里阿尼 · 1919 · 布面油画
+- [[侧卧的裸女 (莫迪里阿尼) Reclining Nude]] — 莫迪里阿尼 · 1917 · 布面油画 · 1.7 亿美元
+- [[救世主 (达·芬奇) Salvator Mundi]] — 达·芬奇 · 1499–1510 · 木板油画 · 4.5 亿美元
+- [[阿尔及尔女人 (毕加索) Women of Algiers (Picasso)]] — 毕加索 · 1955 · 布面油画 · 1.79 亿美元
+- [[坐在沙发毯上的裸女 (莫迪里阿尼) Nude Sitting on Divan Throw Blanket]] — 莫迪里阿尼 · 1917 · 布面油画
+- [[坐着的裸女 (莫迪里阿尼) Seated Nude (Modigliani)]] — 莫迪里阿尼 · 1917 · 布面油画
+- [[戴项链坐着的裸女 (莫迪里阿尼) Seated Nude with Necklace]] — 莫迪里阿尼 · 1917 · 布面油画
+- [[珍妮·赫比特娜 (莫迪里阿尼) Jeanne Hébuterne]] — 莫迪里阿尼 · 1919 · 布面油画
+- [[戴帽子的珍妮·赫比特娜 (莫迪里阿尼) Portrait of Jeanne Hébuterne in Large Hat]] — 莫迪里阿尼 · 1918 · 布面油画
+- [[珍妮·赫比特娜像 (莫迪里阿尼 1919) Portrait of Jeanne Hébuterne]] — 莫迪里阿尼 · 1919 · 布面油画
+- [[狂欢节之夜 Carnival Evening]] — 亨利·卢梭 · 1886 · 布面油画
+- [[沉睡的吉普赛女郎 The Sleeping Gypsy]] — 亨利·卢梭 · 1897 · 布面油画
+- [[一个女人的肖像 (卢梭) Portrait of a Woman (Rousseau)]] — 亨利·卢梭 · 1895 · 布面油画
+- [[耍蛇者 The Snake Charmer]] — 亨利·卢梭 · 1907 · 布面油画
+- [[梦 (卢梭) The Dream (Rousseau)]] — 亨利·卢梭 · 1910 · 布面油画
+- [[心境：告别 States of Mind The Farewells]] — 波丘尼 · 1911 · 布面油画
+- [[心境：去的人 States of Mind Those Who Go]] — 波丘尼 · 1911 · 布面油画
+- [[纺织工 The Spinners]] — 委拉斯贵支 · 1655 · 布面油画
+- [[被拴住的狗的动态 Dynamism of a Dog on a Leash]] — 巴拉 · 1912 · 布面油画
+- [[城市的兴起 The City Rises]] — 波丘尼 · 1910 · 布面油画
+- [[美术馆里的骚动 Riot in the Gallery]] — 波丘尼 · 1910 · 布面油画
+- [[空间连续的唯一形体 Unique Forms of Continuity in Space]] — 波丘尼 · 1913 · 青铜雕塑
+- [[水平卷 Horizontal Volumes]] — 波丘尼 · 1912 · 布面油画
+- [[下楼梯的裸女 Nude Descending a Staircase No. 2]] — 杜尚 · 1912 · 布面油画
+- [[从处女到已婚妇女的过程 The Passage from Virgin to Bride]] — 杜尚 · 1912 · 布面油画
+- [[第一步 (库普卡) The First Step]] — 库普卡 · 1909 · 油画
+- [[多个圆 Several Circles]] — 康定斯基 · 1926 · 布面油画 (Einige Kreise)
+- [[蓝山 Blue Mountain]] — 康定斯基 · 1908–1909 · 布面油画
+- [[冬日山景 (康定斯基) Winter Landscape (Kandinsky)]] — 康定斯基 · 1909 · 布面油画
+- [[青骑士 (康定斯基 1903) The Blue Rider (Kandinsky 1903)]] — 康定斯基 · 1903 · 布面油画
+- [[蓝色的马一号 Blue Horse I]] — 马尔克 · 1911 · 布面油画
+- [[带圆的画 Picture with a Circle]] — 康定斯基 · 1911 · 布面油画
+- [[穆尔瑙的教堂 Murnau with a Church]] — 康定斯基 · 1910 · 布面油画
+- [[抒情诗 Lyrical]] — 康定斯基 · 1911 · 布面油画
+- [[即兴31号 Improvisation 31 (Sea Battle)]] — 康定斯基 · 1913 · 布面油画
+- [[梦的即席创作 Improvisation Dreamy]] — 康定斯基 · 1913 · 布面油画
+- [[有白边的画 Painting with White Border]] — 康定斯基 · 1913 · 布面油画
+- [[即兴26 Improvisation 26 (Rowing)]] — 康定斯基 · 1912 · 布面油画
+- [[构图七 Composition VII]] — 康定斯基 · 1913 · 布面油画
+- [[即兴6 Improvisation 6 (African)]] — 康定斯基 · 1909 · 布面油画
+- [[构图三 Composition III (Concert)]] — 康定斯基 · 1923 · 布面油画
+- [[灰色 Im Grau]] — 康定斯基 · 1919 · 布面油画
+- [[构图218 Composition 218 (Two Ovals)]] — 康定斯基 · 1919 · 布面油画
+- [[红色小梦 Small Dream in Red]] — 康定斯基 · 1925 · 油画
+- [[优势曲线 Courbe Dominante]] — 康定斯基 · 1936 · 布面油画
+- [[伏尔加河上的纤夫 Barge Haulers on the Volga]] — 列宾 · 1870–1873 · 油画
+- [[橡木林 (施希金) Oak Grove (Shishkin)]] — 施希金 · 1887 · 油画
+- [[林荫大道 (马列维奇) On the Boulevard]] — 马列维奇 · 1903 · 油画
+- [[卖花女 (马列维奇) Flowergirl]] — 马列维奇 · 1903 · 油画
+- [[冬季风景 (马列维奇) Winter Landscape (Malevich)]] — 马列维奇 · 1909 · 油画
+- [[春 (马列维奇) Spring (Malevich)]] — 马列维奇 · 1904 · 油画
+- [[浴女 (马列维奇 1908) Bathers (Malevich)]] — 马列维奇 · 1908 · 油画
+- [[人物肖像 (马列维奇) Portrait (Malevich)]] — 马列维奇 · 1910 · 油画
+- [[园丁 (马列维奇) Gardener]] — 马列维奇 · 1911 · 油画
+- [[浴者 (马列维奇) Bather (Malevich)]] — 马列维奇 · 1911 · 油画
+- [[伐木者 (马列维奇) The Woodcutter]] — 马列维奇 · 1912 · 油画
+- [[收割者 (马列维奇) Reaper]] — 马列维奇 · 1912 · 油画
+- [[红色和蓝色的辐射主义 Red and Blue Rayonnism]] — 冈察洛娃 · 1912–13 · 油画
+- [[挑水桶的农妇和小孩 Peasant Woman with Buckets and a Child]] — 马列维奇 · 1912 · 油画
+- [[黑方块 Black Square]] — 马列维奇 · 1915 · 油画 (至上主义起点)
+- [[白方块上的白方块 Suprematist Composition White on White]] — 马列维奇 · 1918 · 油画
+- [[红色方块 Red Square (Malevich)]] — 马列维奇 · 1915 · 油画
+- [[蓝色三角形和黑色矩形 Blue Triangle and Black Rectangle]] — 马列维奇 · 1915 · 油画
+- [[构图三 红黄蓝 (蒙德里安) Composition C (No. III) with Red, Yellow and Blue]] — 蒙德里安 · 1935 · 油画
+- [[协和广场 (蒙德里安) Place de la Concorde]] — 蒙德里安 · 1938–1943 · 油画
+- [[红树 (蒙德里安) Red Tree]] — 蒙德里安 · 1908–1910 · 油画
+- [[灰树 (蒙德里安) Gray Tree]] — 蒙德里安 · 1911 · 油画
+- [[树 构图二号 (蒙德里安) Composition Trees II]] — 蒙德里安 · 1912 · 油画
+- [[海堤与海 构成十号 (蒙德里安) Composition No. 10 Pier and Ocean]] — 蒙德里安 · 1915 · 油画
+- [[线条构图 (蒙德里安) Composition with Lines]] — 蒙德里安 · 1916–1917 · 油画
+- [[红黄蓝黑的构图 (蒙德里安) Composition in Red, Yellow, Blue and Black]] — 蒙德里安 · 1921 · 油画
+- [[百老汇的爵士乐 (蒙德里安) Broadway Boogie Woogie]] — 蒙德里安 · 1942–1943 · 油画
+- [[战争中的形 Fighting Forms]] — 马尔克 · 1914 · 油画
+- [[树下的女孩 Girl in the Greenery]] — 马克 · 1914 · 油画
+- [[永别 (马克) Farewell (Macke)]] — 马克 · 1914 · 油画
+- [[靠近突尼斯的圣热门 St. Germain near Tunis]] — 克利 · 1914 · 水彩
+- [[一个年轻女士的冒险 A Young Lady's Adventure]] — 克利 · 1921 · 水彩 (Tate)
+- [[走向衰老的人头 Head of a Man Going Senile]] — 克利 · 1922 · 水彩
+- [[十七 Seventeen]] — 克利 · 1923 · 纸面水彩与墨水
+- [[鱼的周围 Around the Fish]] — 克利 · 1926 · 油画+蛋彩 (MoMA)
+- [[苦乐岛 Bittersweet Island]] — 克利 · 1938
+- [[孩童与阿姨 Child and Aunt]] — 克利 · 1940
+- [[蓝色大衣 Blue Coat]] — 克利 · 1940
+- [[中毒 Intoxication]] — 克利 · 1940
+- [[死与火 Death and Fire]] — 克利 · 1940 (最后一幅)
+- [[水手 (塔特林) The Sailor (Self Portrait)]] — 塔特林 · 1911–1912 · 油画
+- [[女模特 (塔特林) Model]] — 塔特林 · 1913 · 油画
+- [[吉他 (毕加索 1912) Guitar (Picasso 1912)]] — 毕加索 · 1912 · 纸板与铁丝
+- [[角落里的反浮雕 Corner Counter-Relief]] — 塔特林 · 1914 · 铁/木/铜悬挂构造
+- [[用红楔攻打白军 Beat the Whites with the Red Wedge]] — 利西茨基 · 1919 · 石版海报
+- [[塔特林塔 Tatlin's Tower]] — 塔特林 · 1919–1920 · 钢/玻璃设计稿 (未建成)
+- [[根据随机法则排列的正方形拼贴画 Collage with Squares Arranged according to the Law of Chance]] — 让·阿尔普 · 1916–1917 · 拼贴
+- [[泉 (杜尚) Fountain (Duchamp)]] — 杜尚 · 1917 · 现成品 (vs 安格尔《泉》)
+- [[村庄 (尼科尔) The Village (Nicolle)]] — 尼科尔 · 油画
+- [[布兰维尔的风景 Landscape at Blainville]] — 杜尚 · 1902 · 油画
+- [[布兰维尔的教堂 Church at Blainville]] — 杜尚 · 1902 · 油画
+- [[坐在窗边的人 Man Seated by a Window]] — 杜尚 · 1907 · 油画
+- [[穿黑丝袜的裸女 (杜尚) Nude with Black Stockings]] — 杜尚 · 1910 · 油画
+- [[艺术家父亲肖像 (杜尚) Portrait of the Artist's Father]] — 杜尚 · 1910 · 油画
+- [[下棋 (杜尚 1910) Chess Game]] — 杜尚 · 1910 · 油画
+- [[两个裸女 (杜尚 1910) Two Nudes (Duchamp)]] — 杜尚 · 1910 · 油画
+- [[小夜曲 (杜尚) Sonata]] — 杜尚 · 1911 · 油画
+- [[苏珊娜肖像 (杜尚) Portrait of Suzanne Duchamp]] — 杜尚 · 1911 · 油画
+- [[棋手 (杜尚) Portrait of Chess Players]] — 杜尚 · 1911 · 油画
+- [[春天的年轻男女 Young Girl and Man in Spring]] — 杜尚 · 1911 · 油画
+- [[灌木丛 (杜尚) The Bush]] — 杜尚 · 1910–1911 · 油画
+- [[被撕成碎片的伊芳和玛格黛蓝 Yvonne and Magdeleine Torn in Tatters]] — 杜尚 · 1911 · 油画
+- [[杜尔西尼亚肖像 Portrait Dulcinea]] — 杜尚 · 1911 · 油画
+- [[新娘 Bride (Duchamp)]] — 杜尚 · 1912 · 油画
+- [[国王和王后被快速移动的裸女包围着 King and Queen Surrounded by Swift Nudes]] — 杜尚 · 1912 · 油画
+- [[巧克力研磨机 (杜尚) Chocolate Grinder]] — 杜尚 · 1914 · 油画
+- [[三个标准的终止 3 Standard Stoppages]] — 杜尚 · 1913–1914 · 现成品/装置
+- [[自行车轮 (杜尚) Bicycle Wheel]] — 杜尚 · 1913 · 现成品 (首件)
+- [[瓶架 (杜尚) Bottle Rack]] — 杜尚 · 1914 · 现成品
+- [[提前断臂 In Advance of the Broken Arm]] — 杜尚 · 1915 · 现成品 (雪铲)
+- [[雾中的卢瓦尔河 Fog Effects on the Loire]] — 毕卡比亚 · 1905 · 油画
+- [[莫雷的杨树 The Poplars, Moret]] — 毕卡比亚 · 1906 · 油画
+- [[干草垛·晚上的轮廓 Haystacks (Picabia)]] — 毕卡比亚 · 1906 · 油画
+- [[秋天的效果，洛因河岸，圣马姆斯 The Effect of Autumn, Banks of the Loing, St. Mammes]] — 毕卡比亚 · 1905 · 油画
+- [[莫雷小镇 Moret-sur-Loing]] — 毕卡比亚 · 1905 · 油画
+- [[松树 (毕卡比亚) Pines (Picabia)]] — 毕卡比亚 · 1908 · 油画
+- [[圣特罗佩港，晚间效果 Port of Saint-Tropez, Evening Effect]] — 毕卡比亚 · 1909 · 油画
+- [[亚当与夏娃 (毕卡比亚) Adam and Eve (Picabia)]] — 毕卡比亚 · 1911 · 油画
+- [[水泉 (毕卡比亚) The Spring (Picabia)]] — 毕卡比亚 · 1912 · 油画
+- [[水泉边的舞蹈 Dances at the Spring]] — 毕卡比亚 · 1912 · 油画
+- [[UDNIE 年轻的美国女孩 Udnie, Young American Girl]] — 毕卡比亚 · 1913 · 油画
+- [[我又想我亲爱的UDNIE了 I See Again in Memory My Dear Udnie]] — 毕卡比亚 · 1914 · 油画
+- [[新娘甚至被单身汉剥光了衣服 The Bride Stripped Bare by Her Bachelors]] — 杜尚 · 1915–1923 · 玻璃 (《大玻璃》)
+- [[这就是女人 Here is the Woman]] — 毕卡比亚 · 1915 · 油画
+- [[机器转动快 Machine Turn Quickly]] — 毕卡比亚 · 1916–1918 · 油画
+- [[爱的大游行 Love Parade]] — 毕卡比亚 · 1917 · 油画
+- [[一位裸身状态的美国女孩 A Nude American Girl]] — 毕卡比亚 · 1915 · 油画
+- [[加法 The Addition]] — 毕卡比亚 · 1922 · 油画
+- [[圣母玛丽亚2 The Blessed Virgin (Picabia)]] — 毕卡比亚 · 1920 · 油画
+- [[阔佬达达的画像 Tableau Rastadada]] — 毕卡比亚 · 1920 · 拼贴
+- [[自画像 (毕卡比亚 1920) Auto Portrait (Picabia 1920)]] — 毕卡比亚 · 1920 · 油画
+- [[制造麻烦的人 Trouble Maker]] — 毕卡比亚 · 1925 · 油画
+- [[女人和树 Woman and the Trees]] — 毕卡比亚 · 1931 · 油画
+- [[乌比王 (恩斯特) Ubu Imperator]] — 恩斯特 · 1923 · 油画
+- [[恋人 (马格利特) The Lovers]] — 马格利特 · 1928 · 油画
+- [[记忆的永恒 (达利) The Persistence of Memory]] — 达利 · 1931 · 油画 (软钟)
+- [[一条街道的忧郁与神秘 (契里柯) Mystery and Melancholy of a Street]] — 契里柯 · 1914 · 油画
+- [[心神不宁的缪斯 (契里柯) The Disquieting Muses]] — 契里柯 · 1917 · 油画
+- [[意大利广场 (契里柯) Piazza of Italy]] — 契里柯 · 1913 · 油画
+- [[暧昧的女人 (恩斯特) The Wavering Woman]] — 恩斯特 · 1923 · 油画
+- [[俄狄浦斯王 (恩斯特) Oedipus Rex]] — 恩斯特 · 1922 · 油画
+- [[恩斯特的寝室 The Master's Bedroom]] — 恩斯特 · 1920 · 拼贴
+- [[即将到来的青春期 (恩斯特) Puberty Nearby]] — 恩斯特 · 1921 · 拼贴
+- [[圣塞西莉亚 隐形钢琴 (恩斯特) Saint Cecilia Invisible Piano]] — 恩斯特 · 1923 · 油画
+- [[第一个清晰的字眼 (恩斯特) The First Clear Word]] — 恩斯特 · 1923 · 油画
+- [[叶子的习性 (恩斯特) Leaf Customs]] — 恩斯特 · 1925 · 摩擦法
+- [[玛莲 (恩斯特) Marlene]] — 恩斯特 · 1940 · 油画
+- [[新娘的婚纱 (恩斯特) Attirement of the Bride]] — 恩斯特 · 1940 · 油画
+- [[单生树与双生树 (恩斯特) Solitary Tree and Married Trees]] — 恩斯特 · 1940 · 油画
+- [[三位证人目睹圣母打基督屁股 (恩斯特) The Virgin Spanking the Christ Child before Three Witnesses]] — 恩斯特 · 1926 · 油画
+- [[窗边的少女 (达利) Figure at a Window]] — 达利 · 1925 · 油画
+- [[岩石上的女人 (达利) Figure on the Rocks]] — 达利 · 1926 · 油画
+- [[立体主义艺术家的自画像 (达利) Cubist Self-Portrait]] — 达利 · 1923 · 油画
+- [[哦加拉 (达利) Hello Gala]] — 达利 · 1935 · 油画
+- [[由飞舞的蜜蜂引起的梦 (达利) Dream Caused by the Flight of a Bee]] — 达利 · 1944 · 油画
+- [[梅·维斯特嘴唇沙发 (达利) Mae West Lips Sofa]] — 达利 · 1937 · 雕塑/家具
+- [[拉斐尔风格爆炸头 (达利) Raphaelesque Head Exploding]] — 达利 · 1951 · 油画
+- [[加拉蒂亚 (达利) Galatea of the Spheres]] — 达利 · 1952 · 油画
+- [[耶稣圣心 (达利) Sacred Heart]] — 达利 · 1962 · 油画
+- [[十字架上的圣约翰基督 (达利) Christ of Saint John of the Cross]] — 达利 · 1951 · 油画
+- [[农庄 The Farm]] — 米罗 · 1921–1922 · 油画
+- [[动物的命运 (马尔克) Fate of the Animals]] — 马尔克 · 1913 · 油画
+- [[炼金术 (波洛克) Alchemy]] — 波洛克 · 1947 · 滴画法
+- [[出生 (波洛克) Birth (Pollock)]] — 波洛克 · 1941 · 油画
+- [[裸女 (波洛克 1930) Woman (Pollock)]] — 波洛克 · 1930s · 油画
+- [[秋韵 Autumn Rhythm]] — 波洛克 · 1950 · 滴画法 (Autumn Rhythm No. 30)
+- [[面具 (波洛克) Mask (Pollock)]] — 波洛克 · 1941 · 油画
+- [[合流 (波洛克) Convergence]] — 波洛克 · 1952 · 滴画法
+- [[壁画 (波洛克) Mural (Pollock)]] — 波洛克 · 1943 · 大尺寸 (古根海姆委托)
+- [[自画像 (波洛克 1930) Self Portrait (Pollock)]] — 波洛克 · 1930s · 油画
+- [[鸟 (波洛克) Bird (Pollock)]] — 波洛克 · 1941 · 油画
+- [[茶杯 (波洛克) The Tea Cup]] — 波洛克 · 1946 · 油画
+- [[钥匙 (波洛克) The Key]] — 波洛克 · 1946 · 油画
+- [[薰衣草雾气 (波洛克) Lavender Mist No.1]] — 波洛克 · 1950 · 滴画法
+- [[黑与白（20号） (波洛克) Black and White (Number 20)]] — 波洛克 · 1951 · 黑色瓷釉
+- [[海神的召唤 (波洛克) Full Fathom Five]] — 波洛克 · 1947 · 滴画法 (混合物)
+- [[七号（网络之外） (波洛克) Number 7 (Out of the Web)]] — 波洛克 · 1949 · 板上油彩
+- [[儿童 (本顿) People of Chilmark]] — 本顿 · 1920 · 油画
+- [[西盖罗斯壁画 Siqueiros Mural]] — 西盖罗斯 · 1930s · 壁画
+- [[女人一 (德·库宁) Woman I]] — 德·库宁 · 1950–1952 · 油画
+- [[女人三 (德·库宁) Woman III]] — 德·库宁 · 1953 · 油画 (1.378 亿拍卖)
+- [[交换 (德·库宁) Interchange]] — 德·库宁 · 1955 · 油画
+- [[博尔顿兰德 (德·库宁) Bolton Landing]] — 德·库宁 · 1957 · 油画
+- [[无题五 (德·库宁) Untitled V]] — 德·库宁 · 1980 · 油画
+- [[无题XXV (德·库宁) Untitled XXV]] — 德·库宁 · 1977 · 油画
+- [[擦掉德·库宁的素描 Erased de Kooning Drawing]] — 劳森伯格 · 1953 · 擦除作品
+- [[可口可乐计划 Coca-Cola Plan]] — 劳森伯格 · 1958 · 综合材料
+- [[数字与字母 Number and Alfabet]] — 约翰斯 · 1959 · 油画+拼贴
+- [[无题 (劳森伯格) Untitled (Rauschenberg)]] — 劳森伯格 · 1955 · 综合材料
+- [[玛丽莲·梦露 Marilyn Monroe (Warhol)]] — 沃霍尔 · 1962 · 丝网印刷
+- [[坎贝尔汤罐 Campbell's Soup Cans]] — 沃霍尔 · 1962 · 丝网印刷
+- [[Liz #3]] — 沃霍尔 · 1963 · 丝网印刷
+- [[在车里 In the Car]] — 利希滕斯坦 · 1963 · 油画
+- [[也许 M-Maybe]] — 利希滕斯坦 · 1965 · 油画
+- [[哭泣的女孩 Crying Girl]] — 利希滕斯坦 · 1964 · 漆/钢板
+- [[200 张一美元钞票 200 One Dollar Bills]] — 沃霍尔 · 1962 · 丝网印刷
+- [[艺术家的粪便 (曼佐尼) Artist's Shit]] — 曼佐尼 · 1961 · 90 罐头
+- [[丑角 (卡特兰) Comedian]] — 卡特兰 · 2019 · 香蕉+胶带 (NFT 时代之前的边界)
+- [[希阿岛的屠杀 (德拉克罗瓦) The Massacre at Chios]] — 德拉克罗瓦 · 1824 · 油画
+- [[科林斯少女 The Origin of Painting (Wright)]] — 约瑟夫·赖特 · 1782–1784 · 油画
+- [[公牛走廊 Hall of the Bulls Lascaux]] — 拉斯科洞穴 · 约 17000 BC · 洞窟壁画
 
 ## 概念 (Concepts)
 
@@ -447,6 +1393,134 @@
 - [[报纸与艺术批评 Press and Art Criticism]] — 1836 法国报纸大繁荣 → 知识分子艺术话语霸权
 - [[不屈的意志 Will to Power]] — 尼采"不渴望幸福，只渴望创造"
 - [[情感强度 Intensity of Feeling]] — 浪漫主义的对错标准
+- [[实证主义 Positivism]] — 孔德 / 拒斥形而上学 / 库尔贝思想源头
+- [[现代性 Modernité]] — 波德莱尔 1863《现代生活的画家》发明
+- [[巴黎公社 Paris Commune]] — 1871 / 库尔贝任艺术负责人
+- [[旺多姆柱 Vendôme Column]] — 拿破仑奥斯特利茨缴获 1200 门大炮融铸 / 公社推倒
+- [[农民画传统 Peasant Painting Tradition]] — 16C 太平象征 → 17C 圣徒虔诚 → 18C 道德监护人 → 19C 心灵寄托的四阶段框架
+- [[高贵的野蛮人 Noble Savage]] — 卢梭学说，18 世纪让农民从"消化的胃"升格为"传统道德监护人"
+- [[石版印刷术 Lithography]] — 1796 Senefelder 发明、杜米埃改良；让政治讽刺画进入大众媒介
+- [[风景画 Landscape Painting]] — 西方风景画从中世纪符号 → 文艺复兴陪衬 → 17世纪独立 → 19世纪登顶的完整谱系
+- [[为艺术而艺术 Art for Art's Sake]] — 风景画崛起的逻辑结果；'一幅画就是一幅画'；理解马奈的钥匙
+- [[象征时期风景 Symbolic Landscape]] — 肯尼斯·克拉克对中世纪 / 早期文艺复兴风景的分期命名
+- [[巴黎大改造 Haussmann's renovation of Paris]] — 1851 起 18 年 / 林荫大道 / 现代巴黎物质载体
+- [[玻马舍 Bon Marché]] — 1852 / 全球第一家百货公司 / 陌生人交易取代熟人订制
+- [[妓女母题 (马奈) Prostitute Motif (Manet)]] — 马奈现代性视觉化的核心母题
+- [[照相机的冲击 Photography's Impact]] — 19 世纪中叶摄影术对绘画合法性根基的挑战
+- [[建立绘画的内在传承 Pictorial Self-Reference]] — 马奈通过引用历史名画建立绘画合法性的核心策略
+- [[向二维平面回归 Return to Flatness]] — 马奈把照相机的'缺点'内化为绘画语言、抹除立体感与压缩景深的现代主义起点
+- [[银版照相法 Daguerreotype]] — 1839 摄影术；印象派出现的两大原因之二
+- [[盖尔布瓦咖啡馆 Café Guerbois]] — 印象派思想酝酿场所；'现代艺术的一个重要特征'
+- [[印象派首展 (1874) First Impressionist Exhibition]] — 1874 由 13 位画家自张罗对抗官方沙龙的画展；印象派由勒鲁瓦反向命名而生
+- [[组画 Series Paintings]] — 莫奈 1890s 标志性创作模式；多画架 + 同一时段；爱丽丝建议催生干草垛/鲁昂/睡莲三大系列
+- [[分色主义 Divisionism]] — 修拉本人为自己画法起的名字；强调与印象派'底层逻辑不同'
+- [[更细笔触致画面变暗 Smaller Dot Darkening]] — 修拉点彩科学反噬现象；导致新印象主义走进死胡同
+- [[艺术中的科学主义 Scientism in Art]] — 19 世纪法国实证主义思潮在艺术领域的落地
+- [[主观的客观化 Objectification of the Subjective]] — 象征主义+新印象主义共享方法论核心；古斯塔夫·康恩金句
+- [[象征主义宣言 Symbolist Manifesto]] — 1886年莫亚雷斯《费加罗报》宣告象征主义正式登场
+- [[牧神的午后 (诗) The Afternoon of a Faun]] — 马拉美象征主义代表诗作；048引开篇四行示范工作方法
+- [[八五新潮 '85 New Wave]] — 1985 前后中国当代艺术运动 / 含象征主义+表现主义两条线索
+- [[莎乐美 Salome]] — 圣经母题；19世纪末由莫罗+于斯曼共同确立为象征主义/颓废派核心'致命女性'母题
+- [[逆流 (于斯曼) À rebours]] — 1884 于斯曼小说；把莫罗 + 雷东推红
+- [[等待戈多 Waiting for Godot]] — 1953 贝克特剧作；反讽象征主义
+- [[大铁鸟 (货物崇拜) Cargo Cult]] — 顾衡解释马拉美/雷东/晚期莫罗'放弃词语/形/线条'机理的核心比喻
+- [[艺术的道统 (形式美) Artistic Lineage]] — 顾衡用语：艺术家共同体世代相传的「唱念坐打 / 形式美」；理解塞尚的核心钥匙
+- [[沃尔夫假说 Whorfian Hypothesis]] — 命名结构化经验世界；顾衡 053 借此解释弗莱的'分节'
+- [[分节 Articulation]] — 弗莱用以描述塞尚知性在画面学上的落地：把连续景物切成不连续的独立单元
+- [[结晶 (塞尚) Crystallization]] — 弗莱命名的塞尚成熟期画面效果：几何骨骼经打磨后仍暴露
+- [[景泰蓝派 Cloisonnism]] — 1888 贝尔纳/安奎丹/高更阿旺桥时期画法：色块 + 黑线轮廓 + 平面化
+- [[阿旺桥 Pont-Aven]] — 法国布列塔尼小镇；1886–1888 高更/贝尔纳/塞律西埃在此酝酿景泰蓝派与综合主义
+- [[古比尔画廊 Goupil & Cie]] — 19世纪欧洲最大画廊之一，凡·高家族产业
+- [[秋季沙龙展 Salon d'Automne]] — 1903 创立的法国年度艺术展; 1905 命名野兽派 + 1908 命名立体主义
+- [[为色彩而色彩 Colour for Colour's Sake]] — 野兽派理论核心: 色彩从描述物体解放为独立表达
+- [[安乐椅 (马蒂斯) Armchair Art]] — 马蒂斯名言: 艺术应像让人精神放松的"安乐椅"
+- [[分节 (塞尚) Passage]] — 061 引用的塞尚画法术语 (与 053 [[分节 Articulation]] 同概念不同术语 — lint 时合并)
+- [[生命哲学 Philosophy of Life]] — 柏格森哲学体系：生物世界 vs 物理世界
+- [[直觉 Intuition (Bergson)]] — 生命体与无机物世界相处的智慧
+- [[绵延 Durée]] — 主体的时间；过去/现在/未来交织无轴向
+- [[准确不等于真实 Accuracy is Not Truth]] — 马蒂斯命题；西方现代艺术最基本命题
+- [[蓝色时期 Blue Period]] — 毕加索 1901–1904; 卡萨吉马斯自杀触发; 蓝色单色调
+- [[玫瑰红时期 Rose Period]] — 毕加索 1904–1906; 费尔南德为模特; 暖色调
+- [[黑人时期 African Period (Picasso)]] — 毕加索 1906–1909; 非洲木雕造型 + 塞尚几何字面化; 亚威农少女爆发
+- [[分析立体主义 Analytical Cubism]] — 毕加索/勃拉克 1909–1912; 把对象击碎为几何切面; 内含玻尔原子模型类比 (folder-mode)
+- [[综合立体主义 Synthetic Cubism]] — 毕加索/勃拉克 1912–1919; 拼贴 + 色彩回归; 立体主义晚期
+- [[拼贴 Collage]] — 1912 毕加索/勃拉克发明; 报纸/墙纸/木屑直接贴上画布; 打破"绘画 = 平面涂色"千年前提
+- [[俄罗斯芭蕾舞团 Ballets Russes]] — 1909–1929 佳吉列夫创办; 毕加索/马蒂斯/斯特拉文斯基的合作舞台
+- [[俄耳浦斯立体主义 Orphism]] — 德劳内夫妇分支; 纯粹色彩 + 抽象几何
+- [[同时性绘画 Simultaneous Paintings]] — 德劳内倡; 用色彩对比直接表达运动与时间
+- [[管子主义 Tubism]] — 莱热分支; 把形体简化为圆柱体管子
+- [[新康德主义 Neo-Kantianism]] — 19 世纪后期德国哲学复兴; 069 引为表现主义思想脉络
+- [[刺猬与狐狸 Hedgehog and the Fox]] — 阿基洛科斯隐喻; 以赛亚·伯林发挥; 069 引为思想风格分类
+- [[北方哥特风 Northern Gothic]] — 蒙克承接的北欧传统; 死亡 + 焦虑母题
+- [[礼失求诸野 (北欧寻根) Cultural Rooting in the Periphery]] — 070 framework: 文化中心衰落, 边缘寻根
+- [[印加木乃伊 Inca Mummy]] — 070 引为蒙克《呐喊》面具母题来源
+- [[蒙克程式 Munch's Pictorial Formulas]] — 蒙克独有的视觉公式 / 情感符号
+- [[爱组画 The Frieze of Life]] — 蒙克的人生组画系列 (爱/死亡/焦虑/嫉妒)
+- [[维也纳工坊 Wiener Werkstätte]] — 1903–1932 维也纳分离派工艺设计工坊
+- [[精神分析 Psychoanalysis]] — 弗洛伊德创立; 074 解释席勒"残缺"画法的理论框架
+- [[神经官能症 Neurosis]] — 弗洛伊德分类; 074 引为席勒人物画背后心理学诊断
+- [[艺术意志 Kunstwollen]] — 李格尔/沃林格; 叔本华生命意志的艺术领域借用
+- [[抽象冲动 Urge to Abstraction]] — 沃林格 1911《抽象与移情》核心概念
+- [[移情说 Theory of Empathy]] — 立普斯 Einfühlung; 观者通过移情感受画家内心
+- [[南方写实-北方抽象 South-Realism vs North-Abstraction]] — 沃林格二元论
+- [[超自然主义 Surnaturalisme]] — 阿波利奈尔评夏加尔; 介于现实与超现实之间
+- [[魔幻现实主义 Magic Realism]] — 跨文学与绘画的术语; 077 引为夏加尔技法分类
+- [[原型 (柏拉图) Archetype]] — 柏拉图哲学; 永恒/完美/不变本质; 布朗库西雕塑追求
+- [[波希米亚风 Bohemian Style]] — 19–20 世纪艺术家模仿吉普赛流浪生活方式
+- [[原始主义 Primitivism]] — 19–20 世纪欧洲回归"原始"非西方/民间视觉传统
+- [[卢梭之夜 Rousseau Banquet]] — 1908 毕加索家中向亨利·卢梭致敬的著名晚宴
+- [[偏爱原始性 The Preference for the Primitive]] — 贡布里希命题
+- [[欧洲黄金年代 Belle Époque]] — 1880s–1914 欧洲"美好时代"
+- [[反具象 Non-Representational]] — 抽象绘画的判定标准: 看意图而非画面
+- [[三根线 (绘画道统) Three Strings]] — 顾衡 081 抽象画必然性: 再现/甲方/艺术道统三根线断裂
+- [[总体艺术 Gesamtkunstwerk]] — 瓦格纳概念; 多艺术门类的整合
+- [[论艺术的精神 On the Spiritual in Art]] — 康定斯基 1911 著作; 抽象绘画理论纲领
+- [[征服太阳 Victory over the Sun]] — 1913 俄罗斯未来主义歌剧; 黑方块的源头
+- [[斯托雷平改革 Stolypin's Reforms]] — 1906 俄国农业改革; 马列维奇时代背景
+- [[驴尾社 Donkey's Tail]] — 1912 拉里奥诺夫等创办的俄国前卫派
+- [[至上主义绘画宣言 Suprematist Manifesto]] — 马列维奇 1915
+- [[神智学 Theosophy]] — 1875 创立; 抽象画三人组思想背景
+- [[婴儿视角 Child's Vision]] — 克利一战后方法论
+- [[自动写作 Automatic Writing]] — 超现实主义布勒东主张
+- [[颓废艺术 Degenerate Art]] — 纳粹 1933 起对现代主义的官方标签
+- [[最后的未来主义：从0到10 0.10 The Last Futurist Exhibition]] — 1915 标志俄罗斯转向完全抽象
+- [[反浮雕 Counter-Relief]] — 塔特林发明的三维抽象悬挂构造类型
+- [[生产主义 Productivism]] — 1921 罗琴科"艺术已死"宣言后构成主义的极端化
+- [[伏尔泰酒吧 Cabaret Voltaire]] — 1916 苏黎世达达主义起源地
+- [[达达主义宣言 Dada Manifesto]] — 1918 查拉发表
+- [[X 射线 X-ray]] — 1895 伦琴发现; 杜尚透视思维背景
+- [[啪嗒学 Pataphysics]] — 雅里杜撰的伪学科; 杜尚解构方法论
+- [[阿波罗与狄奥尼索斯 Apollonian and Dionysian]] — 日常/节日两种状态; 解构传统源流
+- [[现成品 Readymade]] — 杜尚 1913 起核心概念; 选+签名即艺术
+- [[哥德堡装置 Rube Goldberg Machine]] — 复杂无用的机械连锁装置母题
+- [[创造性行为 Creative Act]] — 杜尚 1957 演讲; 艺术由观众完成
+- [[偶然性 Chance]] — 杜尚 + 达达核心方法论
+- [[军械库展 Armory Show]] — 1913 纽约首届现代艺术大展
+- [[独立艺术家协会展 Society of Independent Artists Exhibition]] — 1917 纽约; 杜尚泉事件发生地
+- [[迈达斯母题 Midas Motif]] — 顾衡概念; 点石成金/反向价值
+- [[第一次超现实主义宣言 First Surrealist Manifesto]] — 布勒东 1924 发表
+- [[无意识 Unconscious]] — 弗洛伊德; 超现实主义思想根
+- [[巫师与祭司之战 Shaman vs Priest]] — 顾衡命题; 西方艺术权力主线
+- [[词语联想法则 Word Association]] — 弗洛伊德精神分析方法; 超现实主义诗学
+- [[一条安达鲁狗 Un Chien Andalou]] — 1929 达利+布纽尔合拍超现实主义电影
+- [[纽约现代艺术博物馆 Museum of Modern Art (MoMA)]] — 1929 创立; 现代/当代艺术圣殿
+- [[联邦艺术计划 Federal Art Project (WPA)]] — 1935–1943 罗斯福新政艺术家救济; 波洛克受惠者
+- [[当代艺术 Contemporary Art]] — 二战后艺术; 当代时期对应概念
+- [[集体无意识 Collective Unconscious]] — 荣格概念; 波洛克思想根
+- [[本世纪画廊 Art of This Century]] — 1942 佩姬·古根海姆纽约画廊; 波洛克起跳板
+- [[拟真 Simulacra]] — 鲍德里亚后现代概念; 复制品取代真实
+- [[机械复制时代的艺术作品 Art in the Age of Mechanical Reproduction]] — 本雅明 1936 文章
+- [[NFT Non-Fungible Token]] — 区块链数字所有权; 2021 Beeple 6900 万美元拍卖
+- [[头部市场幂律分布 Power-Law Distribution]] — 当代艺术市场赢家通吃结构
+- [[布雷顿森林协议解体 End of Bretton Woods]] — 1971 美元脱钩黄金; 当代艺术金融化背景
+- [[先锋性等于平面性 Avant-garde as Flatness]] — 格林伯格命题
+- [[交感巫术 Sympathetic Magic]] — 弗雷泽《金枝》; 原始艺术理论
+- [[金枝 The Golden Bough]] — 弗雷泽 1890 著作; 比较神话学
+- [[洞穴寓言 Allegory of the Cave]] — 柏拉图《理想国》; 100 引为艺术诞生场景
+- [[灵韵 Aura]] — 本雅明; 机械复制时代消失
+- [[判断力批判 Critique of Judgment]] — 康德 1790; 美学奠基
+- [[当代艺术之争 The Contemporary Art Controversy]] — 当代艺术合法性辩论
+- [[画出来的箴言 Painted Maxims]] — 顾衡命题; 艺术作为人类智慧载体
 
 ## 课程 (Courses)
 
@@ -488,3 +1562,70 @@
 - [[031｜学院派为什么迅速没落？]] — 2026-05-13 ingested
 - [[032｜安格尔：为什么他是学院派最后一位大师？]] — 2026-05-13 ingested
 - [[033｜什么是浪漫主义绘画？]] — 2026-05-13 ingested
+- [[034｜德拉克罗瓦：为什么他成了浪漫主义的旗手？]] — 2026-05-13 ingested
+- [[035｜库尔贝：为什么现实主义的开创者争议那么大？]] — 2026-05-13 ingested
+- [[036｜米勒：什么是"伟大的现实主义"？]] — 2026-05-13 ingested
+- [[037｜为什么说古典时代没有风景画？]] — 2026-05-13 ingested
+- [[038｜马奈1：为什么他是西方现代绘画的鼻祖？]] — 2026-05-13 ingested
+- [[039｜马奈2：画家如何应对照相机的冲击？]] — 2026-05-13 ingested
+- [[040｜什么是印象派?]] — 2026-05-13 ingested
+- [[041｜莫奈1：颠覆式的创新从何而来？]] — 2026-05-13 ingested
+- [[042｜莫奈2：《日出·印象》是不是印象派作品？]] — 2026-05-13 ingested
+- [[043｜雷诺阿：妥协如何造就大师？]] — 2026-05-13 ingested
+- [[044｜莫利索和毕沙罗：最纯正的印象派什么样？]] — 2026-05-13 ingested
+- [[045｜德加：为什么印象派以他结束？]] — 2026-05-13 ingested
+- [[046｜如何运用"时代之眼"来看画？]] — 2026-05-13 ingested
+- [[047｜修拉：新印象主义为什么走进了死胡同？]] — 2026-05-13 ingested
+- [[048｜什么是象征主义？]] — 2026-05-13 ingested
+- [[049｜夏凡纳：如何制作象征主义的密电码？]] — 2026-05-13 ingested
+- [[050｜莫罗：象征主义绘画为什么走向朦胧？]] — 2026-05-13 ingested
+- [[051｜雷东：怪诞是不是象征主义的方向？]] — 2026-05-13 ingested
+- [[052｜塞尚1：为什么他是西方现代绘画之父？]] — 2026-05-13 ingested
+- [[053｜塞尚2：如何打造艺术的平行世界？]] — 2026-05-13 ingested
+- [[054｜塞尚3：为什么理解塞尚那么困难？]] — 2026-05-13 ingested
+- [[055｜高更1：为什么从印象派走向象征主义？]] — 2026-05-13 ingested
+- [[056｜高更2：象征主义还能走多远？]] — 2026-05-13 ingested
+- [[057｜凡·高1：为什么说他"性格决定命运"？]] — 2026-05-13 ingested
+- [[058｜凡·高2：为什么他的风格难以界定？]] — 2026-05-13 ingested
+- [[059｜凡·高3：他为什么走向毁灭？]] — 2026-05-13 ingested
+- [[060｜马蒂斯1：野兽派从何而来？]] — 2026-05-13 ingested
+- [[061｜马蒂斯2：为什么说野兽派不"野兽"？]] — 2026-05-13 ingested
+- [[062｜马蒂斯3：如何理解他一生的创作？]] — 2026-05-13 ingested
+- [[063｜野兽派，除了马蒂斯还能谈什么？]] — 2026-05-13 ingested
+- [[064｜毕加索1：如何理解"蓝色时期"和"玫瑰红时期"？]] — 2026-05-13 ingested
+- [[065｜毕加索2：如何理解"黑人时期"？]] — 2026-05-13 ingested
+- [[066｜毕加索3：什么是分析立体主义？]] — 2026-05-13 ingested
+- [[067｜毕加索4：什么是综合立体主义？]] — 2026-05-13 ingested
+- [[068｜立体主义，除了毕加索还值得了解什么？]] — 2026-05-13 ingested
+- [[069｜什么是表现主义？]] — 2026-05-13 ingested
+- [[070｜蒙克1：表现主义的先行者经历了什么？]] — 2026-05-13 ingested
+- [[071｜蒙克2：为什么他是表现主义之父？]] — 2026-05-13 ingested
+- [[072｜桥社：什么是表现主义绘画的使命？]] — 2026-05-13 ingested
+- [[073｜克里姆特：什么是维也纳分离派？]] — 2026-05-13 ingested
+- [[074｜席勒1：他为什么走向表现主义？]] — 2026-05-13 ingested
+- [[075｜席勒2：为什么他是"最表现主义"的画家？]] — 2026-05-13 ingested
+- [[076｜表现主义到底要表现什么？]] — 2026-05-13 ingested
+- [[077｜夏加尔：俄国人在巴黎]] — 2026-05-13 ingested
+- [[078｜莫迪里阿尼：画中女子为什么让人一眼难忘？]] — 2026-05-13 ingested
+- [[079｜亨利·卢梭：毕加索对他的吹捧是真心的吗？]] — 2026-05-13 ingested
+- [[080｜什么是未来主义？]] — 2026-05-13 ingested
+- [[081｜康定斯基1：什么是抽象绘画？]] — 2026-05-13 ingested
+- [[082｜康定斯基2：他为什么走向抽象？]] — 2026-05-13 ingested
+- [[083｜马列维奇：什么是至上主义？]] — 2026-05-13 ingested
+- [[084｜蒙德里安：他为什么要画那么多格子？]] — 2026-05-13 ingested
+- [[085｜克利：他为什么模仿小孩子画画？]] — 2026-05-13 ingested
+- [[086｜塔特林：什么是构成主义？]] — 2026-05-13 ingested
+- [[087｜什么是达达主义？]] — 2026-05-13 ingested
+- [[088｜杜尚1：他"好好画画"是什么样子的？]] — 2026-05-13 ingested
+- [[089｜杜尚2：什么是他人生的转折点？]] — 2026-05-13 ingested
+- [[090｜杜尚3：他为什么要送一个小便器去参展？]] — 2026-05-13 ingested
+- [[091｜毕卡比亚：如何用绘画表现达达主义？]] — 2026-05-13 ingested
+- [[092｜超现实主义为什么会诞生？]] — 2026-05-13 ingested
+- [[093｜契里柯与恩斯特：如何用绘画表现超现实主义？]] — 2026-05-13 ingested
+- [[094｜达利：为什么他画的是"伪装的梦"？]] — 2026-05-13 ingested
+- [[095｜什么是当代艺术？]] — 2026-05-13 ingested
+- [[096｜波洛克：什么是当代艺术的第一个流派？]] — 2026-05-13 ingested
+- [[097｜德·库宁：抽象表现主义追求什么？]] — 2026-05-13 ingested
+- [[098｜波普艺术：流行文化如何成为艺术？]] — 2026-05-13 ingested
+- [[099｜大便罐头到NFT：当代艺术的界限在哪里？]] — 2026-05-13 ingested
+- [[100｜结语：为什么我们需要艺术？]] — 2026-05-13 ingested
