@@ -5,7 +5,7 @@ name_en: Greek Classical Period
 aliases: [Classical Greek, Greek Classical, 古典期, 古典时期]
 created: 2026-05-13
 updated: 2026-05-13
-sources: 1
+sources: 2
 ---
 
 ## 一句话定义
@@ -26,6 +26,7 @@ sources: 1
 - [[波利克列特斯 Polykleitos]]
 - [[米隆 Myron]]
 - [[普拉克西特列斯 Praxiteles]]（古典晚期）
+- 画家（绘画失传，仅文献存）：[[宙克西斯 Zeuxis]]、[[帕拉西奥斯 Parrhasius]] —— 公元前 5 世纪末雅典两大画家，明暗派 vs. 线条派之争的当事人
 
 ## 代表作品
 - [[持矛者 Doryphoros]]
@@ -38,3 +39,4 @@ sources: 1
 
 ## 出现在
 - [[002｜古希腊雕塑：为什么做得这么逼真？]]
+- [[003｜画得像和画得好是一回事吗？]]（论证希腊绘画水平：[[短缩法 Foreshortening]] 已存在 + 明暗派 vs. 线条派之争）

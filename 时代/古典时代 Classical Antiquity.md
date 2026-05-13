@@ -5,7 +5,7 @@ name_en: Classical Antiquity
 aliases: [Classical Antiquity, 古典时期, Greco-Roman Era]
 created: 2026-05-13
 updated: 2026-05-13
-sources: 1
+sources: 2
 ---
 
 ## 一句话定义
@@ -20,7 +20,7 @@ sources: 1
 ## 主要流派
 - [[古希腊古风时期 Greek Archaic Period]]
 - [[古希腊古典时期 Greek Classical Period]]
-- （古罗马艺术，后续 lecture 加入）
+- [[古罗马艺术 Ancient Roman Art]]
 
 ## 代表人物
 - [[波利克列特斯 Polykleitos]]
@@ -34,3 +34,4 @@ sources: 1
 
 ## 出现在
 - [[002｜古希腊雕塑：为什么做得这么逼真？]]
+- [[003｜画得像和画得好是一回事吗？]]（罗马段：媒介漂移到马赛克、法尤姆肖像保留希腊水准）

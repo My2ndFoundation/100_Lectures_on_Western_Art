@@ -5,18 +5,148 @@
 ## 时代 (Eras)
 
 - [[古典时代 Classical Antiquity]] — 前 8 世纪 – 公元 5 世纪 · 古希腊与古罗马为核心的西方文明源头
+- [[中世纪 Middle Ages]] — 公元 476 – 1400 · 基督教教权框架下千年；艺术从写实退场，程式化为教义服务
+- [[文艺复兴期 Renaissance]] — 约 1400 – 1600 · 教会抓住 1453 君士坦丁堡陷落的契机重塑权威；佛罗伦萨为承担者
+- [[巴洛克时期 Baroque Period]] — 17 世纪欧洲艺术的时代框架
 
 ## 流派 (Schools / Movements)
 
 - [[古希腊古风时期 Greek Archaic Period]] — 前 7–前 5 世纪初 · 雕塑造型受埃及程式影响、个性化萌芽
 - [[古希腊古典时期 Greek Classical Period]] — 前 479–前 404 · 写实黄金期，七头身 + S 造型奠基
 - [[古埃及艺术 Ancient Egyptian Art]] — 自前 3000 起 · 程式化、求同；失蜡法发源地
+- [[古罗马艺术 Ancient Roman Art]] — BC 1 – AD 5 世纪 · 媒介从壁画漂移到马赛克，复制了大量希腊雕塑
+- [[拜占庭艺术 Byzantine Art]] — 6 – 15 世纪 · 重色彩重装饰重程式化；金底圣像 + 镶嵌画
+- [[罗马式 Romanesque]] — 约 1000 – 1150 · 厚墙小窗 + 大片壁画；半圆拱建筑
+- [[哥特艺术 Gothic Art]] — 12 – 15 世纪 · 法兰西起源的写实复古运动；尖拱 + 飞扶壁 + 彩窗
+- [[佛罗伦萨画派 Florentine School]] — 13 世纪末起 · 追求逼真，从契马布埃 / 乔托到文艺复兴三杰
+- [[锡耶纳画派 Sienese School]] — 13 世纪末起 · 保留拜占庭程式，把中世纪宗教形式美推到顶峰
+- [[翁布里亚画派 Umbrian School]] — 1470–1520 · 佩鲁吉诺创立；左右对称 + 装饰性 + 甜美面孔
+- [[威尼斯画派 Venetian School]] — 1480–1700 · 色彩派；帆布 + 不画素描；乔尔乔内、提香
+- [[矫饰主义 Mannerism]] — 1520–1600 意大利绘画 · 对形式的过度追求；阿拉斯新解 = 米开朗基罗的绘画
+- [[佛兰德斯画派 Flemish School]] — 15 世纪低地国家油画派 · 凡·艾克鼻祖 · 细密画 + 小孔成像
+- [[北方文艺复兴 Northern Renaissance]] — 意大利之外的文艺复兴 · 经验先行 vs 概念先行
+- [[巴洛克 Baroque]] — 17 世纪欧洲艺术风格；沃尔夫林五对参数翻案
+- [[学院派 Academic Art]] — 17–19 世纪官方美术学院体系；把巴洛克贬为"二流"的命名者
+- [[米兰画派 Milanese School]] — 达·芬奇在米兰 17 年留下的画派；卢伊尼为代表
+- [[荷兰黄金时代 Dutch Golden Age]] — 17 世纪荷兰盛期；甲方是市民阶层，群像画的解题运动
+- [[洛可可 Rococo]] — 18 世纪法国宫廷风格；精致 + 细腻；蓬巴杜夫人 / 布歇为"双翼"
+- [[新古典主义 Neoclassicism]] — 18 世纪后半段法国学院派复古路线；大卫为奠基；技法回归拉斐尔但保留巴洛克舞台风
+- [[浪漫主义 Romanticism]] — 19 世纪欧洲反启蒙运动；情感强度取代客观真理；德拉克罗瓦旗手
 
 ## 人物 (People)
 
 - [[波利克列特斯 Polykleitos]] — 前 5 世纪后半叶 · 希腊古典雕塑家，《法则》/七头身比例
 - [[普拉克西特列斯 Praxiteles]] — 前 400–330 · 古典晚期雕塑家，首件全裸女神像
 - [[米隆 Myron]] — 前 480–440 · 古典雕塑家，动态人体表现
+- [[巴克森德尔 Michael Baxandall]] — 1933–2008 · 英国艺术史学者，"时代之眼"提出者
+- [[潘诺夫斯基 Erwin Panofsky]] — 1892–1968 · 图像志学派代表，《阿尔诺菲尼夫妻像》经典解读者
+- [[沃尔夫林 Heinrich Wölfflin]] — 1864–1945 · 形式主义风格史奠基者，"绘画风格内在演进"派
+- [[丹纳 Hippolyte Taine]] — 1828–1893 · "种族·时代·环境"三参数艺术决定论代表
+- [[瓦萨里 Giorgio Vasari]] — 1511–1574 · 《艺苑名人录》作者，艺术史开山鼻祖，"中世纪手艺失传"派
+- [[李格尔 Alois Riegl]] — 1858–1905 · Kunstwollen 概念，"中世纪是主动选择"派
+- [[帕拉西奥斯 Parrhasius]] — 活跃前 5 世纪末 · 古希腊线条派画家
+- [[宙克西斯 Zeuxis]] — 活跃前 5 世纪末 · 古希腊明暗派画家
+- [[马丁尼 Simone Martini]] — c.1284–1344 · 锡耶纳画派 / 国际哥特风格奠基者之一
+- [[贡布里希 E.H. Gombrich]] — 1909–2001 · 《艺术的故事》/《艺术与错觉》；图式-修正方法论
+- [[克洛斯·斯吕特尔 Claus Sluter]] — c.1340–1405/06 · 勃艮第宫廷雕塑家，《第戎的摩西井》作者
+- [[契马布埃 Cimabue]] — c.1240–1302 · 佛罗伦萨派初代，乔托师傅
+- [[乔托 Giotto]] — c.1267–1337 · 西方绘画之父，斯科洛瓦尼礼拜堂壁画
+- [[杜乔 Duccio]] — c.1255–1318/19 · 锡耶纳画派创始人
+- [[美第奇家族 Medici Family]] — 1397– 18 世纪 · 佛罗伦萨银行业王朝，文艺复兴最大私人赞助人
+- [[布鲁内莱斯基 Brunelleschi]] — 1377–1446 · 单点透视发明者，佛罗伦萨大教堂穹顶建造者
+- [[拉斐尔 Raphael]] — 1483–1520 · 文艺复兴三杰之一，《雅典学院》作者
+- [[佩鲁吉诺 Perugino]] — c.1448–1523 · 拉斐尔师傅，单点透视范型作者
+- [[乔尔乔内 Giorgione]] — 1477–1510 · 威尼斯画派革命者；帆布 + 色彩派
+- [[乔万尼·贝利尼 Giovanni Bellini]] — c.1430–1516 · 威尼斯画派奠基者
+- [[凡·艾克 Jan van Eyck]] — c.1390–1441 · 油彩技法成熟化的关键人物
+- [[费奇诺 Marsilio Ficino]] — 1433–1499 · 柏拉图学院院长，把柏拉图整合进基督教
+- [[米开朗基罗 Michelangelo]] — 1475–1564 · 文艺复兴三杰之一，西斯廷天顶画 / 大卫
+- [[提香 Titian]] — c.1488–1576 · 威尼斯画派领军；色彩派
+- [[贝尔尼尼 Bernini]] — 1598–1680 · 巴洛克最伟大的雕塑家
+- [[波蒂切利 Botticelli]] — 1445–1510 · 把新柏拉图主义理念美践行到极致；学院派理念的开端
+- [[利比修士 Filippo Lippi]] — c.1406–1469 · 波蒂切利师傅，"冰美人"圣母程式
+- [[达·芬奇 Leonardo da Vinci]] — 1452–1519 · 文艺复兴三杰之一，意大利写实主义最高点；蒙娜丽莎、最后的晚餐
+- [[维罗奇奥 Verrocchio]] — c.1435–1488 · 达·芬奇师傅，佛罗伦萨工坊体制代表
+- [[鲁本斯 Peter Paul Rubens]] — 1577–1640 · 佛兰德斯巴洛克领军；继承提香色彩并推向纵深叙事
+- [[杜尚 Marcel Duchamp]] — 1887–1968 · 现代艺术革命者；现成品 (readymade) 的发明者
+- [[科雷乔 Correggio]] — c.1489–1534 · "最具现代性"文艺复兴画家；巴洛克精神之父；主体视角空间观 + 自身发光 + 云彩
+- [[乌切洛 Paolo Uccello]] — 1397–1475 · 痴迷数学的透视实验者
+- [[布歇 François Boucher]] — 1703–1770 · 法国洛可可代表，蓬巴杜夫人庇护
+- [[帕米贾尼诺 Parmigianino]] — 1503–1540 · 矫饰主义画家，《长颈圣母》
+- [[布龙吉诺 Agnolo Bronzino]] — 1503–1572 · 矫饰主义佛罗伦萨宫廷画师，美第奇御用
+- [[蓬托尔莫 Jacopo da Pontormo]] — 1494–1557 · 矫饰主义早期代表
+- [[兰齐 Luigi Lanzi]] — 1732–1810 · 18C 末艺术史家，把"矫饰主义"钉上贬义
+- [[达尼埃尔·阿拉斯 Daniel Arasse]] — 1944–2003 · 20C 末法国艺术史家，提出"矫饰主义 = 米开朗基罗的绘画"
+- [[雷诺兹 Joshua Reynolds]] — 1723–1792 · 英国皇家美院首任院长
+- [[马萨乔 Masaccio]] — 1401–1428 · 意大利文艺复兴绘画奠基者，第一幅按线性透视绘制
+- [[大卫·霍克尼 David Hockney]] — 1937– · 英国当代画家，Hockney-Falco Thesis 提出者
+- [[丢勒 Albrecht Dürer]] — 1471–1528 · 德国北方文艺复兴最伟大画家，版画集大成者
+- [[曼特尼亚 Andrea Mantegna]] — c.1431–1506 · 帕多瓦画派，建筑舞台式构图开创者
+- [[舍恩高尔 Martin Schongauer]] — c.1448–1491 · 德国铜版画大师
+- [[拉伊蒙迪 Marcantonio Raimondi]] — c.1480–1534 · 意大利铜版画家；盗版丢勒被告
+- [[马奈 Édouard Manet]] — 1832–1883 · 法国画家，印象派前驱
+- [[荷尔拜因 Hans Holbein the Younger]] — 16 世纪北方文艺复兴肖像大师，亨利八世御用
+- [[伊拉斯谟 Erasmus of Rotterdam]] — 16 世纪欧洲最著名人文主义学者，《愚人颂》作者
+- [[托马斯·莫尔 Sir Thomas More]] — 英国政治家 /《乌托邦》作者
+- [[亨利八世 Henry VIII of England]] — 都铎王朝英王，英国宗教改革推手
+- [[克伦威尔 Thomas Cromwell]] — 莫尔倒台后英国第一权臣
+- [[马丁·路德 Martin Luther]] — 1517 发起欧洲宗教改革的德国神学家
+- [[卡拉齐 Annibale Carracci]] — 意大利巴洛克早期画家；与堂兄 Lodovico 共创博洛尼亚学院
+- [[夏皮罗 Meyer Schapiro]] — 美国艺术史学者；引维特根斯坦"家族相似性"补"风格"定义
+- [[卡拉瓦乔 Caravaggio]] — 1571–1610 · 巴洛克开创者 · 酒窖光发明者
+- [[卢伊尼 Bernardino Luini]] — c.1480–1532 · 米兰画派代表 · 人称"小达·芬奇"
+- [[彼得扎诺 Simone Peterzano]] — c.1535–1599 · 卡拉瓦乔的师傅
+- [[切萨里 Giuseppe Cesari]] — 1568–1640 · 罗马晚期矫饰主义 · 卡拉瓦乔早期雇主
+- [[德尔蒙特 Cardinal Francesco Maria del Monte]] — 1549–1626 · 卡拉瓦乔关键贵人
+- [[圭多·雷尼 Guido Reni]] — 1575–1642 · 巴洛克博洛尼亚派 · 卡拉瓦乔的圆滑对手
+- [[真蒂莱斯基 Artemisia Gentileschi]] — 1593–1654 · 艺术史第一位女艺术家
+- [[勃鲁盖尔 Brueghel]] — 佛兰德斯画派家族
+- [[凡·戴克 Anthony van Dyck]] — 鲁本斯画室成员；查理一世宫廷画师
+- [[委拉斯贵支 Diego Velázquez]] — 西班牙巴洛克最高峰；鲁本斯西班牙挚友
+- [[玛丽·美第奇 Marie de' Medici]] — 法国王太后；《美第奇组画》订主
+- [[伦勃朗 Rembrandt]] — 1606–1669 · 荷兰最伟大画家 · 戏剧性 + 厚涂极致
+- [[拉斯曼 Pieter Lastman]] — c.1583–1633 · 伦勃朗师傅 · 把卡拉瓦乔光带回荷兰
+- [[特尔·布吕根 Hendrick ter Brugghen]] — 1588–1629 · 乌德勒支卡拉瓦乔派
+- [[洪特霍斯特 Gerard van Honthorst]] — 1592–1656 · 乌德勒支卡拉瓦乔派 · 把光源画进画面
+- [[哈尔斯 Frans Hals]] — 1582/83–1666 · 荷兰群像画前辈
+- [[莎斯基亚 Saskia van Uylenburgh]] — 1612–1642 · 伦勃朗第一任妻子；多幅模特
+- [[吉尔金 Geertje Dircx]] — 提图斯的保姆；伦勃朗 1640s 同居伴侣
+- [[亨德里克金 Hendrickje Stoffels]] — 伦勃朗 1650s 同居伴侣
+- [[尤勇 Yu Yong]] — 中国艺术研究院博士；《宫娥》立储画新解的提出者
+- [[威尔·杜兰特 Will Durant]] — 美国通史作家《文明的故事》
+- [[华托 Antoine Watteau]] — 1684–1721 · 雅宴画代表，洛可可过渡人物
+- [[亚森特·里戈 Hyacinthe Rigaud]] — 1659–1743 · 路易十四官方肖像作者
+- [[路易十四 Louis XIV]] — 1638–1715 · 太阳王，巴洛克宫廷文化的设计师
+- [[路易十五 Louis XV]] — 1710–1774 · 5 岁继位，宫廷放松催生洛可可
+- [[蓬巴杜夫人 Madame de Pompadour]] — 1721–1764 · 路易十五公开情妇，洛可可"双翼"之一
+- [[弗拉戈纳尔 Jean-Honoré Fragonard]] — 1732–1806 · 法国洛可可后期代表；布歇学生
+- [[狄德罗 Denis Diderot]] — 1713–1784 · 法国启蒙思想家；百科全书派主帅
+- [[大卫 Jacques-Louis David]] — 1748–1825 · 新古典主义奠基；三朝宫廷画师
+- [[普桑 Nicolas Poussin]] — 1594–1665 · 17 世纪法国古典主义；新古典精神祖师
+- [[路易十六 Louis XVI]] — 1754–1793 · 法国波旁末代国王
+- [[伏尔泰 Voltaire]] — 1694–1778 · 启蒙运动思想家
+- [[委罗内塞 Veronese]] — 1528–1588 · 威尼斯画派晚期巨匠（031 引）
+- [[莱弗尔 François Lemoyne]] — 1688–1737 · 法国洛可可前期
+- [[杰拉德 François Gérard]] — 1770–1837 · 大卫学生 / 复辟时期沙龙宠儿
+- [[温特哈特 Franz Xaver Winterhalter]] — 1805–1873 · 19 世纪欧洲宫廷肖像画师
+- [[路易十八 Louis XVIII]] — 1755–1824 · 波旁复辟首位国王
+- [[查理十世 Charles X]] — 1757–1836 · 波旁复辟末代
+- [[路易·菲利普 Louis Philippe I]] — 1773–1850 · 七月王朝
+- [[拿破仑三世 Napoleon III]] — 1808–1873 · 法兰西第二帝国 / 1863 落选者沙龙诏令者
+- [[德拉克罗瓦 Eugène Delacroix]] — 1798–1863 · 浪漫主义旗手
+- [[安格尔 Jean-Auguste-Dominique Ingres]] — 1780–1867 · 学院派最后一位大师
+- [[帕格尼尼 Niccolò Paganini]] — 1782–1840 · 意大利小提琴神
+- [[司汤达 Stendhal]] — 1783–1842 · 法国小说家
+- [[雨果 Victor Hugo]] — 1802–1885 · 法国文坛巨匠
+- [[温克尔曼 Johann Joachim Winckelmann]] — 1717–1768 · 德国艺术史家 / 新古典理论奠基
+- [[拿破仑 Napoleon Bonaparte]] — 1769–1821 · 法兰西第一帝国
+- [[斯塔尔夫人 Madame de Staël]] — 1766–1817 · 把德国浪漫主义带入法国
+- [[歌德弗卢瓦 Marie Eleonore Godefroid]] — 1778–1849 · 法国女画家
+- [[伊曼努尔·康德 Immanuel Kant]] — 1724–1804 · 德国哲学家
+- [[尼采 Friedrich Nietzsche]] — 1844–1900 · 德国哲学家
+- [[席勒 Friedrich Schiller]] — 1759–1805 · 德国诗人 / 剧作家
+- [[波德莱尔 Charles Baudelaire]] — 1821–1867 · 法国诗人 / 现代艺术批评开创者
+- [[以赛亚·伯林 Isaiah Berlin]] — 1909–1997 · 英国思想史家 / 浪漫主义研究权威
 
 ## 技法 (Techniques)
 
@@ -24,6 +154,19 @@
 - [[七头身比例 Seven-head canon]] — 全身高 = 7×头高，波利克列特斯创立
 - [[失蜡法 Lost-wax casting]] — 通过蜡模做中介的青铜铸造工艺
 - [[埃及人体程式 (21 等份) Egyptian canon]] — 人体高度切分 21 格的造型程式
+- [[小孔成像法 Camera Obscura]] — 通过小孔投影帮助画家准确画形体，文艺复兴期辅助光学装置
+- [[正身侧面律 Composite View]] — 头/下肢侧面 + 躯干/眼正面，古埃及人体程式
+- [[短缩法 Foreshortening]] — 沿视线方向的视觉压缩；古希腊已掌握、埃及壁画中从未出现
+- [[马赛克 Mosaic]] — tesserae 拼贴二维图像；罗马-拜占庭核心媒介
+- [[彩色玻璃花窗 Stained Glass]] — 黑铅条 + 彩玻璃；哥特建筑的核心新媒介
+- [[线性透视 Linear Perspective]] — 单点透视；布鲁内莱斯基 c.1413 发明，西方绘画 500 年的标尺
+- [[晕涂法 Sfumato]] — 达·芬奇集大成的消解线条上色法
+- [[空气透视法 Atmospheric Perspective]] — 远处偏淡偏蓝；达·芬奇系统化
+- [[厚涂 Impasto]] — 粘稠油彩局部堆叠 + 故意保留笔触；提香首创
+- [[版画 Printmaking]] — 刻模批量印刷的图像生产方式
+- [[木刻版画 Woodcut]] — 凸版印刷，刻去白处；适合书籍插图
+- [[铜版画 Engraving]] — 凹版印刷，刻刀刻凹槽藏墨；线条精细
+- [[酒窖光 Tenebrism]] — 卡拉瓦乔标志性的明暗对比极端化技法
 
 ## 作品 (Artworks)
 
@@ -34,12 +177,276 @@
 - [[双人立像 (古埃及) Egyptian Pair Statue]] — 匿名 · 埃及第四王朝 ~前 2500 · 石灰岩
 - [[荷犊者 Moschophoros]] — 匿名 · 前 570 · 大理石
 - [[克雷提奥斯少年 Kritios Boy]] — 归 Kritios (推测) · 前 480 · 大理石
+- [[藤椅上的静物 Still Life with Chair Caning]] — 毕加索 · 1912 · 油画+拼贴 · 西方第一件 collage
+- [[戴金盔的男子 Man with the Golden Helmet]] — 伦勃朗工坊 (旧归伦勃朗) · ~1650 · 油画
+- [[阿德里阿蒂克的日落 Sunset over the Adriatic]] — Boronali (即一头驴) · 1910 · 驴尾巴绘画骗局
+- [[最后的晚餐 The Last Supper]] — 达·芬奇 · 1495–1498 · 蛋彩+油彩 (干石膏壁画)
+- [[阿尔诺菲尼夫妻像 The Arnolfini Portrait]] — 凡·艾克 · 1434 · 橡木板油画
+- [[圣母领报 (马丁尼·梅米) The Annunciation]] — 马丁尼+梅米 · 1333 · 蛋彩+金底 · 锡耶纳画派代表
+- [[街头乐师 Street Musicians]] — Dioskourides 复制 · 罗马 (原作 BC 3 世纪) · 马赛克
+- [[在吕克莫德斯的女儿中找出阿喀琉斯 Achilles Among the Daughters of Lycomedes]] — 匿名 · 罗马 3 世纪 · 马赛克
+- [[五饼二鱼 The Miracle of the Loaves and Fishes]] — 匿名拜占庭 · ~520 · 马赛克 · 新圣阿波利奈尔教堂
+- [[基督受洗 (阿利亚诺洗礼堂) Arian Baptistery Mosaic]] — 匿名拜占庭 · ~490 · 天顶马赛克 · 拉文纳
+- [[弯曲宝座上的圣母子 Madonna and Child on a Curved Throne]] — 匿名拜占庭 · 13 世纪 · 木板蛋彩
+- [[查士丁尼及其随从 Emperor Justinian and His Attendants]] — 匿名拜占庭 · 547 · 马赛克 · 圣维塔莱
+- [[弗拉基米尔的圣母 Virgin of Vladimir]] — 匿名拜占庭 · 1131 · 木板蛋彩 · 现藏特列季亚科夫
+- [[巴黎圣母院 Notre-Dame de Paris]] — 1163–1345 · 哥特大教堂
+- [[沙特尔大教堂 Chartres Cathedral]] — 1194–1220 重建 · 哥特建筑+雕塑+彩窗
+- [[善良的牧羊人 (加拉·普拉西提阿陵墓) Good Shepherd Mosaic]] — 匿名 · ~425 · 马赛克 · 拉文纳
+- [[基督下十字架 (沃拉泰拉) Volterra Deposition]] — 匿名 · 1228 · 彩绘木雕群像
+- [[基督为使徒洗足 (奥托三世福音书) Christ Washing the Feet (Otto III Gospels)]] — 匿名 · 997–1002 · 彩绘微型画
+- [[圣母雕像 (珍妮·德·埃弗勒) Virgin of Jeanne d'Évreux]] — 匿名宫廷金匠 · 1339 · 镀金银+珐琅+宝石
+- [[第戎的摩西井 Puits de Moïse]] — 克洛斯·斯吕特尔 · 1395–1403 · 石灰岩圆雕群像
+- [[宝座上的圣母子 (契马布埃) Santa Trinita Maestà]] — 契马布埃 · 1280–85 · 木板蛋彩 · 第一次给基督教画人物加立体感
+- [[宝座上的圣母子 (乔托) Ognissanti Madonna]] — 乔托 · 1310 · 木板蛋彩 · 第一次画圣母隆起的胸部
+- [[圣母怜子 (乔托) Lamentation of Christ]] — 乔托 · 1305 · 壁画 · 斯科洛瓦尼礼拜堂
+- [[宝座上的圣母子 (杜乔) Maestà]] — 杜乔 · 1308 · 木板蛋彩 · 锡耶纳主教堂主祭坛
+- [[雅典学院 The School of Athens]] — 拉斐尔 · 1509–10 · 壁画 · 梵蒂冈宫签字大厅
+- [[圣母的婚礼 (佩鲁吉诺) Marriage of the Virgin]] — 佩鲁吉诺 · 1500–04 · 木板油画 · 单点透视范型
+- [[圣塞巴斯蒂安 (拉斐尔) St Sebastian]] — 拉斐尔 · 1501–02 · 木板蛋彩 · 理念美 / 千人一面
+- [[圣塞西莉亚 St Cecilia]] — 拉斐尔 · 1514–16 · 油画 · 三层音乐结构 / 出神范型
+- [[圣凯瑟琳 (拉斐尔) St Catherine of Alexandria]] — 拉斐尔 · 1507–08 · 木板油画 · 仰望星空母题
+- [[忏悔的抹大拉 (提香) Penitent Magdalene]] — 提香 · 1555–65 · 布面油画 · 威尼斯派出神
+- [[圣特蕾莎的狂喜 Ecstasy of Saint Teresa]] — 贝尔尼尼 · 1645–52 · 大理石+镀金铜 · 巴洛克出神极致
+- [[圣母子与二天使 (利比修士) Madonna with the Child and Two Angels]] — 利比修士 · 1460–65 · 冰美人圣母
+- [[持石榴的圣母 Madonna of the Pomegranate]] — 波蒂切利 · 1487 · 圆形蛋彩
+- [[春 La Primavera]] — 波蒂切利 · 1481–82 · 木板蛋彩 · 美第奇侄子婚礼画
+- [[圣母领报 (波蒂切利) Annunciation (Botticelli)]] — 波蒂切利 · 1489 · 木板蛋彩
+- [[维纳斯与马尔斯 Venus and Mars]] — 波蒂切利 · 1480 · 木板蛋彩 · 恶搞结婚画
+- [[维纳斯的诞生 The Birth of Venus]] — 波蒂切利 · 1477 · 布面蛋彩 · 古罗马衰亡后第一全裸女神
+- [[维纳斯 (波蒂切利) Venus (Botticelli)]] — 波蒂切利 · 1482 · 布面蛋彩 · 1:8 头身比 + 脱臼左肩
+- [[三博士来朝 (波蒂切利) Adoration of the Magi]] — 波蒂切利 · 1475–76 · 美第奇家族全家福
+- [[基督受洗 (维罗奇奥) Baptism of Christ (Verrocchio)]] — 维罗奇奥 + 达·芬奇 · 1475–76 · 师徒合作
+- [[吉内薇拉·斑琪 Ginevra de' Benci]] — 达·芬奇 · 1474–78 · 木板油彩 · 美国唯一达·芬奇真迹
+- [[女子头像 (达·芬奇) Female Head]] — 达·芬奇 · c.1508 · 素描 · 消解线条范型
+- [[蒙娜丽莎 Mona Lisa]] — 达·芬奇 · 1502–06 · 白杨木板油彩 · 卢浮宫
+- [[年轻女子肖像 (波蒂切利) Portrait of a Young Woman]] — 波蒂切利 · c.1475 · 木板蛋彩
+- [[抱貂女子 Lady with an Ermine]] — 达·芬奇 · 1489–90 · 胡桃木板油彩 · 克拉科夫
+- [[基督下十字架 (拉斐尔) Deposition (Raphael)]] — 拉斐尔 · 1507 · 木板油彩 · 翁布里亚风格
+- [[圣母的婚礼 (拉斐尔) Marriage of the Virgin (Raphael)]] — 拉斐尔 · 1504 · 木板油彩 · 青出于蓝
+- [[康乃馨圣母 Madonna of the Carnation]] — 达·芬奇 · 1478–80 · 木板油彩 · 慕尼黑
+- [[粉红圣母 Madonna of the Pinks]] — 拉斐尔 · 1506–07 · 紫杉木板油彩 · 致敬达·芬奇
+- [[教皇尤利乌斯二世像 Portrait of Pope Julius II]] — 拉斐尔 · 1511 · 白杨木板油彩 · 革命性教皇肖像
+- [[西斯廷圣母 Sistine Madonna]] — 拉斐尔 · 1512–14 · 布面油画 · 德累斯顿
+- [[披纱女子 Portrait of a Lady (Velata)]] — 拉斐尔 · 1512–15 · 布面油画 · 帕拉提纳
+- [[圣家族 (拉斐尔) The Holy Family]] — 拉斐尔 · 1518 · 布面油画 · 卢浮宫
+- [[酒神巴克斯 Bacchus]] — 米开朗基罗 · 1496–97 · 大理石 · 巴杰罗
+- [[圣母怜子 (米开朗基罗) Pietà]] — 米开朗基罗 · 1498–99 · 大理石 · 圣彼得大教堂
+- [[大卫 (米开朗基罗) David]] — 米开朗基罗 · 1501–04 · 大理石 · 美术学院
+- [[教皇尤利乌斯二世陵寝 Tomb of Pope Julius II]] — 米开朗基罗 · 1505–1545 · 大理石组群
+- [[西斯廷天顶画 Sistine Chapel Ceiling]] — 米开朗基罗 · 1508–12 · 壁画 · 含《创造亚当》
+- [[美第奇礼拜堂雕塑 Medici Chapel Sculptures]] — 米开朗基罗 · 1519–34 · 晨/暮/昼/夜 + 美第奇家族
+- [[末日审判 The Last Judgment]] — 米开朗基罗 · 1536–41 · 壁画 · 西斯廷祭坛墙
+- [[隆达尼尼的圣母怜子 Rondanini Pietà]] — 米开朗基罗 · 1549–64 · 大理石 · 米兰
+- [[伽拉蒂亚的凯旋 The Triumph of Galatea]] — 拉斐尔 · 1512–14 · 壁画 · 法尔内塞别墅
+- [[基督变容 Transfiguration]] — 拉斐尔 · 1518–20 · 木板蛋彩 · 拉斐尔绝笔，矫饰主义先声
+- [[圣安娜与圣母子 The Virgin and Child with St Anne]] — 达·芬奇 · c.1510 · 卢浮宫
+- [[草地上的圣母 The Madonna of the Meadow]] — 拉斐尔 · 1505–06 · 维也纳
+- [[施洗者约翰 (达·芬奇) St John the Baptist]] — 达·芬奇 · 1513–16 · 卢浮宫
+- [[胜利之神 The Genius of Victory]] — 米开朗基罗 · 1532–34 · 大理石 · 韦奇奥宫
+- [[安吉里战役 The Battle of Anghiari]] — 达·芬奇 · 1504 · 未完成 · 仅存草图与摹本
+- [[卡西纳之战 The Battle of Cascina]] — 米开朗基罗 · 1504 · 仅草图传世
+- [[摩西的审判和呼召 The Trials and Callings of Moses]] — 波蒂切利 · 1481–82 · 壁画 · 西斯廷礼拜堂北墙
+- [[教皇利奥十世与二主教像 Portrait of Leo X with Two Cardinals]] — 拉斐尔 · 1518 · 木板油彩 · 三人组合
+- [[沉睡的维纳斯 Sleeping Venus]] — 乔尔乔内 · 1501 · 西方第一件躺式女裸独立画
+- [[暴风雨 (乔尔乔内) The Tempest]] — 乔尔乔内 · 1505–07
+- [[犹滴 (乔尔乔内) Judith]] — 乔尔乔内 · 1510
+- [[犹滴归来 (波蒂切利) The Return of Judith]] — 波蒂切利 · 1472
+- [[苏丹穆罕默德二世像 Sultan Mehmed II]] — 真蒂莱·贝利尼 · 1480
+- [[圣母子 (乔万尼·贝利尼) Madonna and Child]] — 乔万尼·贝利尼 · 1480s
+- [[L.H.O.O.Q. (杜尚) L.H.O.O.Q. (Duchamp)]] — 杜尚 · 1919 · 现成品 + 涂改 · 蒙娜丽莎加胡子
+- [[田园合奏曲 Pastoral Concert]] — 提香 (旧归乔尔乔内) · 1510–11 · 布面油画 · 卢浮宫
+- [[诸神的盛宴 The Feast of the Gods]] — 贝利尼 (背景由提香 1529 重绘) · 1514 · 罩染法范例
+- [[酒神的狂欢 The Bacchanal of the Andrians]] — 提香 · 1523–26 · 色彩获自由
+- [[乌尔比诺的维纳斯 Venus of Urbino]] — 提香 · 1538 · 结婚画 + 妓女目光 · 乌菲齐
+- [[卡斯蒂廖尼伯爵 (拉斐尔) Portrait of Baldassare Castiglione]] — 拉斐尔 · 1514–15 · 黑白灰肖像极致
+- [[戴手套的男子 (提香) Man with a Glove]] — 提香 · 1520 · 厚涂的代表 · 卢浮宫
+- [[弗朗索瓦一世像 (提香) Portrait of François I]] — 提香 · 1539 · 凭奖章作画
+- [[保罗三世像 (提香) Portrait of Pope Paul III]] — 提香 · 1543 · 那不勒斯
+- [[查理五世骑马像 Equestrian Portrait of Charles V]] — 提香 · 1548 · 第一幅严肃骑马君主像
+- [[维纳斯与阿都尼斯 (提香) Venus and Adonis (Titian)]] — 提香 · 1554 · "诗意画"系列 · 平面叙事
+- [[维纳斯与阿都尼斯 (鲁本斯) Venus and Adonis (Rubens)]] — 鲁本斯 · ~1630 · 巴洛克的纵深改造
+- [[圣罗马诺之战 (乌切洛) The Battle of San Romano]] — 乌切洛 · 1438–40 · 木板蛋彩 · 多中心透视实验
+- [[圣母升天 (科雷乔) Assumption of the Virgin]] — 科雷乔 · 1526–30 · 帕尔马大教堂穹顶 · 主体视角空间观
+- [[基督受难 (佩鲁吉诺) Crucifixion with Saints]] — 佩鲁吉诺 · 1485 · 翁布里亚式分散光源
+- [[基督的诞生 (科雷乔) Nativity (Correggio)]] — 科雷乔 · 1528–30 · 让人物自身发光的代表
+- [[丽达与天鹅 (达·芬奇) Leda and the Swan (Leonardo)]] — 达·芬奇 · c.1506 · 原作已毁 / 学生仿本
+- [[丽达与天鹅 (科雷乔) Leda and the Swan (Correggio)]] — 科雷乔 · 1532 · 巴洛克纵向人体 + 洛可可胴体局部
+- [[狄安娜出浴 Diana Resting after her Bath]] — 布歇 · 1742 · 卢浮宫 · 洛可可推崇科雷乔
+- [[达那厄 (科雷乔) Danaë (Correggio)]] — 科雷乔 · 1531 · 芒图公爵《宙斯与凡人》系列
+- [[加尼曼达 (科雷乔) Ganymede (Correggio)]] — 科雷乔 · 1531–32 · 同系列
+- [[朱庇特和伊娥 Jupiter and Io]] — 科雷乔 · 1531–32 · 同系列最出色一件
+- [[长颈圣母 Madonna of the Long Neck]] — 帕米贾尼诺 · 1530–40 · 板上油画
+- [[爱情的寓意 (布龙吉诺) An Allegory with Venus and Cupid]] — 布龙吉诺 · 1540–45 · 板上油画
+- [[基督下十字架 (蓬托尔莫) Deposition (Pontormo)]] — 蓬托尔莫 · 1526–28 · 板上油画
+- [[圣家族 (米开朗基罗) The Doni Tondo]] — 米开朗基罗 · 1505–08 · 板上油彩与金粉
+- [[波尔哥火灾 The Fire in the Borgo]] — 拉斐尔 · 1514 · 壁画
+- [[圣三位一体 (马萨乔) The Holy Trinity]] — 马萨乔 · 1427 · 壁画 · 新圣母大殿 · 第一幅按线性透视绘制
+- [[戴红头巾的男子 Man in a Red Turban]] — 凡·艾克 · 1433 · 橡木板油彩 · 可能是自画像
+- [[卡农的圣母 The Madonna with Canon van der Paele]] — 凡·艾克 · 1436 · 橡木板油彩 · 格罗宁格博物馆
+- [[根特祭坛画 The Ghent Altarpiece]] — 凡·艾克兄弟 · 1425–1429 · 多翼祭坛
+- [[湖畔小屋 Fisherman's House on a Lake]] — 丢勒 · 1497 · 水彩
+- [[自画像 1484 (丢勒) Self-Portrait 1484 (Dürer)]] — 丢勒 · 1484 · 银尖笔 · 13 岁
+- [[荒漠中的圣方济各 St. Francis in Ecstasy]] — 乔万尼·贝利尼 · 1475–1480 · 油彩 / 蛋彩木板
+- [[圣詹姆士前赴行刑途中 St. James Led to His Execution]] — 曼特尼亚 · 1455 · 壁画（已毁）
+- [[三王来朝 (丢勒) Adoration of the Magi (Dürer)]] — 丢勒 · 1511 · 木刻版画
+- [[书房中的圣哲罗姆 St. Jerome in his Study]] — 丢勒 · 1514 · 铜版画
+- [[基督的诞生 (丢勒) Nativity (Dürer)]] — 丢勒 · 1504 · 版画（含最早版权签名）
+- [[帕里斯的审判 (拉伊蒙迪) The Judgement of Paris (Raimondi)]] — 拉伊蒙迪据拉斐尔散佚原画 · 1514–1518 · 铜版画
+- [[草地上的午餐 The Luncheon on the Grass]] — 马奈 · 1862–1863 · 油画
+- [[犀牛 (丢勒) Dürer's Rhinoceros]] — 丢勒 · 1515 · 木刻版画
+- [[野兔 (丢勒) Young Hare]] — 丢勒 · 1502 · 水彩
+- [[一大片草地 Great Piece of Turf]] — 丢勒 · 1503 · 水彩
+- [[蓝鸟的翅膀 Wing of a European Roller]] — 丢勒 · 1512 · 水彩
+- [[亚当和夏娃 (丢勒) Adam and Eve (Dürer)]] — 丢勒 · 1507 · 油画
+- [[自画像 1500 (丢勒) Self-Portrait 1500 (Dürer)]] — 丢勒 · 1500 · 油画（仿基督正面像）
+- [[英王亨利八世像 Portrait of Henry VIII of England]] — 荷尔拜因 · 1537 · 油画
+- [[达姆施塔德的圣母 Darmstadt Madonna]] — 荷尔拜因 · 1526–1528 · 木板油彩
+- [[伊拉斯谟像 Portrait of Erasmus of Rotterdam]] — 荷尔拜因 · 1523–1524 · 木板油彩
+- [[艺术家的家庭 The Artist's Family]] — 荷尔拜因 · 1528 · 纸本油彩
+- [[托马斯·莫尔像 Portrait of Sir Thomas More]] — 荷尔拜因 · 1527 · 木板油彩
+- [[吉斯泽肖像 Portrait of Georg Gisze]] — 荷尔拜因 · 1532 · 木板油彩
+- [[两大使 The Ambassadors]] — 荷尔拜因 · 1533 · 木板油彩
+- [[安妮·博林像素描 (荷尔拜因) Sketch of Anne Boleyn]] — 荷尔拜因 · 约 1532–1535 · 素描
+- [[安妮·博林像 (佚名) Portrait of Anne Boleyn (Anonymous)]] — 佚名 · 1533–1536 · 木板油彩
+- [[克里维斯的安妮像 Portrait of Anne of Cleves]] — 荷尔拜因 · 1539 · 羊皮纸油彩
+- [[基督下十字架 (鲁本斯) Deposition (Rubens)]] — 鲁本斯 · 1611–1614 · 木板油画
+- [[青年男子像 (波蒂切利) Portrait of a Young Man (Botticelli)]] — 波蒂切利 · 约 1483 · 木板蛋彩
+- [[圣母之死 (卡拉瓦乔) The Death of the Virgin]] — 卡拉瓦乔 · 1605–1606 · 布面油画 · 卢浮宫
+- [[基督之死 (卡拉齐) Corpse of Christ]] — 卡拉齐 · 1583–1585 · 布面油画
+- [[奥迪祭坛画 (拉斐尔) Oddi Altarpiece]] — 拉斐尔 · 1502–1504 · 木板转布油画
+- [[圣母升天 (鲁本斯) Assumption of the Virgin (Rubens)]] — 鲁本斯 · 1622–1625 · 木板油画
+- [[圣母升天 (提香) Assumption of the Virgin (Titian)]] — 提香 · 1515–1518 · 木板油画 · 威尼斯荣耀圣母圣殿
+- [[康乃馨圣母 (卢伊尼) Madonna of the Carnation (Luini)]] — 卢伊尼 · 1515 · 木板油彩
+- [[水果篮静物 Still Life by a Basket of Fruit]] — 卡拉瓦乔 · 1595–1596 · 布面油彩
+- [[占卜者 The Fortune Teller]] — 卡拉瓦乔 · c.1599 · 布面油彩
+- [[玩牌者 Cardsharps]] — 卡拉瓦乔 · c.1594 · 布面油彩
+- [[抱水果篮的男孩 Boy with a Basket of Fruit]] — 卡拉瓦乔 · c.1593 · 布面油彩
+- [[音乐会 Musicians]] — 卡拉瓦乔 · c.1595 · 布面油彩
+- [[鲁特琴手 The Lute Player]] — 卡拉瓦乔 · c.1596 · 布面油彩
+- [[犹滴斩首荷罗芬尼 (卡拉瓦乔) Judith Beheading Holofernes (Caravaggio)]] — 卡拉瓦乔 · c.1599 · 布面油彩
+- [[圣马太蒙召 Calling of St Matthew]] — 卡拉瓦乔 · 1599–1600 · 布面油彩
+- [[以马忤斯的晚餐 Emmaus' Supper]] — 卡拉瓦乔 · 1601–1602 · 布面油彩
+- [[圣彼得受难 Cruxification of St Peter]] — 卡拉瓦乔 · 1601 · 布面油彩
+- [[戴荆冠的耶稣 Head of Christ Crowned with Thorns]] — 圭多·雷尼 · c.1620 · 布面油彩
+- [[犹滴斩首荷罗芬尼 (真蒂莱斯基) Judith Beheading Holofernes (Gentileschi)]] — 真蒂莱斯基 · c.1620 · 布面油彩
+- [[基督上十字架 The Elevation of the Cross]] — 鲁本斯 · 1609–1610 · 三联画祭坛
+- [[劫夺留西帕斯的女儿 The Rape of the Daughters of Leucippus]] — 鲁本斯 · 1618 · 布面油画
+- [[圣彼得和圣约翰治愈跛脚人的奇迹 The Miracle of the Lame Man Healed by Saints Peter and John]] — 鲁本斯 · 1606–1608 · 布面油画
+- [[鲁本斯自画像 1623 Self-Portrait 1623 (Rubens)]] — 鲁本斯 · 1623 · 木板油画
+- [[圣家族 (鲁本斯) The Holy Family with Saint Elizabeth and Saint John]] — 鲁本斯 · 约 1630 · 布面油画
+- [[圣母子 (卡拉瓦乔) Madonna and Child with St. Anne]] — 卡拉瓦乔 · 1605–1606 · 布面油画
+- [[美惠三女神 (鲁本斯) The Three Graces (Rubens)]] — 鲁本斯 · 1630–1635 · 木板油画
+- [[国王观看玛丽肖像 The Presentation of the Portrait of Marie de'Medici]] — 鲁本斯 · 1622–1625 · 布面油画
+- [[玛丽王后在马赛港登陆 The Landing of Marie de' Medici at Marseille]] — 鲁本斯 · 1622–1625 · 布面油画
+- [[公主的教育 Education of the Princess]] — 鲁本斯 · 1622–1625 · 布面油画
+- [[帕里斯的评判 (鲁本斯) The Judgement of Paris (Rubens)]] — 鲁本斯 · 约 1632 · 木板油画
+- [[托比特与安娜 (伦勃朗) Tobit and Anna with the Kid Goat]] — 伦勃朗 · 1626 · 木板油画
+- [[杜普医生的解剖课 The Anatomy Lesson of Dr. Nicolaes Tulp]] — 伦勃朗 · 1632 · 布面油画
+- [[圣马太蒙召 (布吕根) The Calling of Saint Matthew (Brugghen)]] — 特尔·布吕根 · 1621 · 布面油画
+- [[晚宴 (洪特霍斯特) Merry Company by Candlelight]] — 洪特霍斯特 · 1622 · 布面油画
+- [[圣乔治市民警卫队官员之宴 The Banquet of the Officers of the St George Militia Company]] — 哈尔斯 · 1616 · 布面油画
+- [[夜巡 The Night Watch]] — 伦勃朗 · 1642 · 布面油画
+- [[基督和通奸妇女 (伦勃朗) Christ and the Woman Taken in Adultery]] — 伦勃朗 · 1644 · 木板油画
+- [[亚里士多德与荷马半身像 Aristotle with a Bust of Homer]] — 伦勃朗 · 1653 · 布面油画
+- [[自画像 1630 (伦勃朗) Self-Portrait c. 1630 (Rembrandt)]] — 伦勃朗 · ~1630 · 油画
+- [[自画像 1660 (伦勃朗) Self-Portrait 1660 (Rembrandt)]] — 伦勃朗 · 1660 · 油画
+- [[花神 Saskia as Flora]] — 伦勃朗 · 1634 · 油画
+- [[妓院里的浪子 The Prodigal Son in the Brothel]] — 伦勃朗 · 1636 · 油画
+- [[波兰骑士 The Polish Rider]] — 伦勃朗工作室 · 1655 · 油画（1983 RRP 鉴定非伦勃朗本人）
+- [[吉尔金 (伦勃朗) Geertje Dircx (Rembrandt)]] — 伦勃朗 · 年代不详 · 油画
+- [[床上的女人 A Woman in Bed]] — 伦勃朗 · 1647 · 油画
+- [[沐浴溪间的女人 A Woman Bathing in a Stream]] — 伦勃朗 · 1654 · 油画
+- [[拔士巴与大卫王的信 Bathsheba at Her Bath]] — 伦勃朗 · 1654 · 油画
+- [[犹太新娘 The Jewish Bride]] — 伦勃朗 · 1667 · 油画（凡高"十年寿命换两周对坐之画"）
+- [[圣彼得广场 St. Peter's Square]] — 贝尔尼尼 · 1656–1667 · 椭圆柱廊广场
+- [[大卫 (贝尔尼尼) David (Bernini)]] — 贝尔尼尼 · 1623–1624 · 大理石雕塑
+- [[普鲁同劫夺珀尔塞福涅 The Rape of Proserpina]] — 贝尔尼尼 · 1621–1622 · 大理石雕塑
+- [[宫娥 Las Meninas]] — 委拉斯贵支 · 1656 · 布面油画
+- [[路易十四 Louis XIV (Rigaud)]] — 里戈 · 1701 · 布面油画
+- [[爱的盛宴 The Feast of Love]] — 华托 · 1718–1719 · 布面油画
+- [[舟发西苔岛 Pilgrimage on the Isle of Cythera]] — 华托 · 1718 · 布面油画
+- [[爱的花园 The Garden of Love]] — 鲁本斯 · 1630–1631 · 布面油画
+- [[蓬巴杜夫人的肖像 Portrait of Madame de Pompadour]] — 布歇 · 1759 · 布面油画
+- [[梳妆 (华托) The Toilette (Watteau)]] — 华托 · 1717 · 布面油画
+- [[梳妆 (布歇) La toilette (Boucher)]] — 布歇 · 1742 · 布面油画
+- [[朱庇特与卡利斯托 Jupiter and Callisto]] — 布歇 · 1744 · 布面油画
+- [[黑发宫女 The Brunette Odalisque]] — 布歇 · 1745 · 布面油画
+- [[少女与小狗 Girl with a Dog]] — 弗拉戈纳尔 · 1770 · 布面油画
+- [[门闩 The Lock]] — 弗拉戈纳尔 · 1778 · 布面油画
+- [[偷吻 The Stolen Kiss]] — 弗拉戈纳尔 · 1780 年代末 · 布面油画
+- [[秋千 The Swing]] — 弗拉戈纳尔 · 1767 · 布面油画（洛可可代表作）
+- [[荷拉斯兄弟之誓 Oath of the Horatii]] — 大卫 · 1784 · 布面油画（新古典开山）
+- [[阿卡迪亚牧人 Et in Arcadia ego]] — 普桑 · 1637–1638 · 布面油画
+- [[网球场宣誓 Tennis Court Oath]] — 大卫 · 1791–1793 · 棕墨素描稿
+- [[马拉之死 The Death of Marat]] — 大卫 · 1793 · 雅各宾殉道画
+- [[拿破仑翻越阿尔卑斯山 Napoleon Crossing the Alps]] — 大卫 · 1801 · 布面油画
+- [[拿破仑加冕 The Coronation of Napoleon]] — 大卫 · 1805–1807 · 纪念碑级巨幅
+- [[利未家的晚餐 The Feast in the House of Levi]] — 委罗内塞 · 1573 · 布面油画
+- [[路易十八像 Portrait of Louis XVIII of France]] — 杰拉德 · 1814
+- [[查理十世像 Portrait of Charles X of France]] — 杰拉德 · 1825
+- [[路易·菲利普像 King Louis Philippe]] — 温特哈特 · 1841
+- [[拿破仑三世像 Portrait of Emperor Napoleon III]] — 温特哈特 · 1855
+- [[自画像 (大卫) Self-portrait (David)]] — 大卫 · 1794 · 卢森堡宫监狱所作
+- [[帕格尼尼像 Paganini]] — 安格尔 · 1819 · 铅笔素描
+- [[阿伽门农的使者 The Envoys of Agamemnon]] — 安格尔 · 1801 · 罗马奖作
+- [[荷马的礼赞 The Apotheosis of Homer]] — 安格尔 · 1827 · 卢浮宫天顶
+- [[大宫女 La Grande Odalisque]] — 安格尔 · 1814 · 拉长椎骨争议
+- [[瓦平松的浴女 La Grande Baigneuse]] — 安格尔 · 1808
+- [[朱庇特与忒提斯 Jupiter and Thetis]] — 安格尔 · 1811
+- [[奥松维尔伯爵夫人像 Comtesse d'Haussonville]] — 安格尔 · 1845
+- [[穆瓦特西埃夫人像 (坐) Madame Moitessier (Seated)]] — 安格尔 · 1856
+- [[穆瓦特西埃夫人像 (立) Madame Moitessier (Standing)]] — 安格尔 · 1851
+- [[路易十三的誓愿 The Vow of Louis XIII]] — 安格尔 · 1824
+- [[罗杰拯救安吉莉卡 Roger Freeing Angelica]] — 安格尔 · 1819 · "故意情感缺失"
+- [[泉 The Source]] — 安格尔 · 1856
+- [[自由领导人民 Liberty Leading the People]] — 德拉克罗瓦 · 1830
+- [[斯塔尔夫人像 Portrait of Madame de Stael]] — 歌德弗卢瓦 · 19 世纪初
+- [[美狄亚的愤怒 (德拉克罗瓦) Medea about to Kill Her Children]] — 德拉克罗瓦 · 1838
 
 ## 概念 (Concepts)
 
 - [[库罗斯 Kouros]] — 古希腊古风期男子裸体立像类型
 - [[科莱 Kore]] — 古希腊古风期穿衣女子立像类型
 - [[用手遮挡私处母题 Venus pudica]] — 普拉克西特列斯首创的图像母题
+- [[时代之眼 Period Eye]] — 巴克森德尔方法论 · 把画放回它的时代环境去解读
+- [[三阶段框架 (古典·现代·当代) Three-Stage Periodization]] — 顾衡课程主线 · 古典(订制)/现代(画廊)/当代(资本)
+- [[艺术史四种方法 Four Approaches to Art History]] — 质料技术 / 图像志 / 风格内在演进 / 与社会互动
+- [[图像志 Iconography]] — 潘诺夫斯基方法 · 逐件解读画中物件的象征义
+- [[法尤姆肖像 Fayum Mummy Portraits]] — 罗马治下埃及 1–4 世纪木乃伊面板肖像，希腊绘画水准的活化石
+- [[圣像 Icon]] — 拜占庭核心概念 · 与"偶像"严格区分的宗教图像
+- [[新柏拉图主义 Neoplatonism]] — 普罗提诺 + 费奇诺整合 · 文艺复兴的哲学骨架
+- [[理念美 Idea of Beauty]] — 采百花酿一蜜 · 学院派的根
+- [[仰望星空母题 (出神) Star-gazing Motif]] — 出神 / ekstasis · 西方绘画大母题
+- [[未完成性 Non-finito]] — 半成品美学 · 米开朗基罗发现的"留白"
+- [[绘画 vs 雕塑之争 Paragone]] — 达·芬奇 vs 米开朗基罗的论战 · 基佐 / 雷诺兹的折衷批评
+- [[线条 vs 色彩之争 Disegno vs Colorito]] — 佛罗伦萨派 vs 威尼斯派 · 延伸到鲁本斯-普桑 / 印象派
+- [[纽伦堡 Nuremberg]] — 欧洲第一家造纸厂 + 美因茨印刷工人涌入 · 北部印刷重镇
+- [[宗教改革 Reformation]] — 1517 马丁·路德发起 · 重塑 16 世纪艺术市场
+- [[神圣罗马帝国 Holy Roman Empire]] — 962–1806 中欧德意志-意大利北部联合体
+- [[特伦特大公会议 Council of Trent]] — 1545–1563 · 天主教反宗教改革大会 · 催生巴洛克
+- [[画室流水线分工 Workshop Production]] — 鲁本斯创立的多专长画家分工合作模式
+- [[圣像毁坏运动 Iconoclasm]] — 16 世纪新教徒砸毁天主教视觉艺术品的运动
+- [[君权神授 Divine Right of Kings]] — 17 世纪欧洲专制君主的核心政治神学
+- [[美第奇组画 Marie de' Medici Cycle]] — 鲁本斯 1622–1625 为玛丽·美第奇所作的 21 幅系列
+- [[画面戏剧性 Theatricality]] — 把工作室当剧场、画家当导演；波德莱尔"如生活般自然的戏剧"
+- [[画廊与经纪人体系 Gallery and Dealer System]] — 17 世纪荷兰艺术品流通：画廊（坐店）+ 经纪人（云游下订）
+- [[伦勃朗光 Rembrandt Lighting]] — 伦勃朗晚年布光范式；至今为摄影标配
+- [[流量饥渴 (巴洛克本质) Spectacle Economy]] — 顾衡命题："一个观众都没有我就排练"
+- [[雅宴画 fête galante]] — 18 世纪初描绘贵族沙龙 / 调情的画种；华托代表
+- [[中国风 Chinoiserie]] — 18 世纪欧洲对想象中国的视觉挪用
+- [[危险关系 Les Liaisons dangereuses]] — 拉克洛 1782 书信体小说；洛可可"注重过程，轻视结果"
+- [[七年战争 Seven Years' War]] — 1756–1763 英法争霸；洛可可退潮 + 美国独立战争 / 法国大革命前奏
+- [[罗马奖 Prix de Rome]] — 1663 路易十四设立 · 把好苗子送罗马深造三年
+- [[法兰西皇家绘画与雕塑学院 Académie royale de peinture et de sculpture]] — 1648 路易十四创立 · 欧洲第一个官办艺术机构
+- [[巴黎沙龙 Paris Salon]] — 1667 起的法兰西学院年度展览
+- [[落选者沙龙 Salon des Refusés]] — 1863 拿破仑三世御旨；现代艺术开端
+- [[政治与艺术防火墙 The Wall between Politics and Art]] — 安格尔的政治姿态
+- [[反启蒙 Counter-Enlightenment]] — 浪漫主义的哲学源头（伯林概念）
+- [[启蒙运动 Enlightenment]] — 18 世纪理性主义；浪漫主义反对的目标
+- [[报纸与艺术批评 Press and Art Criticism]] — 1836 法国报纸大繁荣 → 知识分子艺术话语霸权
+- [[不屈的意志 Will to Power]] — 尼采"不渴望幸福，只渴望创造"
+- [[情感强度 Intensity of Feeling]] — 浪漫主义的对错标准
 
 ## 课程 (Courses)
 
@@ -47,4 +454,37 @@
 
 ## 来源 (Sources)
 
+- [[发刊词｜我们都有搞懂艺术的权利]] — 2026-05-13 ingested
+- [[001｜总导论：艺术到底属于谁？]] — 2026-05-13 ingested
 - [[002｜古希腊雕塑：为什么做得这么逼真？]] — 2026-05-13 ingested
+- [[003｜画得像和画得好是一回事吗？]] — 2026-05-13 ingested
+- [[004｜拜占庭艺术：程式化的艺术是怎么回事？]] — 2026-05-13 ingested
+- [[005｜哥特艺术1：为什么说它是文艺复兴的前奏？]] — 2026-05-13 ingested
+- [[006｜哥特艺术2：为什么在意大利发生了分化？]] — 2026-05-13 ingested
+- [[007｜文艺复兴是怎么发生的？]] — 2026-05-13 ingested
+- [[008｜文艺复兴到底复兴了什么？]] — 2026-05-13 ingested
+- [[009｜波蒂切利：如何解读"理念美"？]] — 2026-05-13 ingested
+- [[010｜达芬奇：他为什么一生抑郁不得志？]] — 2026-05-13 ingested
+- [[011｜拉斐尔：为什么说他是"集大成者"？]] — 2026-05-13 ingested
+- [[012｜米开朗基罗：他为什么能被艺术史家"封神"？]] — 2026-05-13 ingested
+- [[013｜恩怨：文艺复兴三杰如何相互影响？]] — 2026-05-13 ingested
+- [[014｜美第奇家族：甲方如何影响文艺复兴？]] — 2026-05-13 ingested
+- [[015｜乔尔乔内：威尼斯画派创新在何处？]] — 2026-05-13 ingested
+- [[016｜提香：为什么业界评价比达芬奇还高？]] — 2026-05-13 ingested
+- [[017｜科雷乔：为什么他是文艺复兴最具现代性的画家？]] — 2026-05-13 ingested
+- [[018｜矫饰主义：过度追求形式有什么后果？]] — 2026-05-13 ingested
+- [[019｜凡·艾克：什么是绘画的另一种可能性？]] — 2026-05-13 ingested
+- [[020｜丢勒：为什么版画那么重要？]] — 2026-05-13 ingested
+- [[021｜荷尔拜因：为什么要画那么多肖像画？]] — 2026-05-13 ingested
+- [[022｜巴洛克：华丽等于没内涵吗？]] — 2026-05-13 ingested
+- [[023｜卡拉瓦乔：巴洛克的戏剧性从何而来？]] — 2026-05-13 ingested
+- [[024｜鲁本斯：都是巴洛克，为什么风格如此不同？]] — 2026-05-13 ingested
+- [[025｜伦勃朗1：为什么他被称为荷兰最伟大的画家？]] — 2026-05-13 ingested
+- [[026｜伦勃朗2：为什么荷兰收费最高的画家会破产？]] — 2026-05-13 ingested
+- [[027｜如何理解巴洛克艺术的全貌？]] — 2026-05-13 ingested
+- [[028｜什么是洛可可？]] — 2026-05-13 ingested
+- [[029｜洛可可为什么那么香艳？]] — 2026-05-13 ingested
+- [[030｜新古典主义：为什么绘画再次转向宏大叙事？]] — 2026-05-13 ingested
+- [[031｜学院派为什么迅速没落？]] — 2026-05-13 ingested
+- [[032｜安格尔：为什么他是学院派最后一位大师？]] — 2026-05-13 ingested
+- [[033｜什么是浪漫主义绘画？]] — 2026-05-13 ingested
